@@ -1,0 +1,1520 @@
+,Artical Title,Artical Link,Artical Content
+0,About the Announcements category,https://forum.arbitrum.foundation/t/about-the-announcements-category/21134,"Announcements for important items, events and initiatives in the ArbitrumDAO."
+1,Potential Misuse of Funds - Furucombo,https://forum.arbitrum.foundation/t/potential-misuse-of-funds-furucombo/25496,"What is the issue?
+The Foundation has reviewed the STIP Analysis (ARDC Research Deliverables) prepared by @Blockworks and observed that certain protocols have misused (and/or retained leftover) STIP and Backfund STIP grants.
+Which projects have misused funds?
+The Foundation has followed up on projects that fall into the above category and has sought for funds to be returned.
+Several projects that we privately contacted have cooperated and returned the funds without any issues. We want to take th"
+2,The Arbitrum Foundation Bi-annual Progress Update (H1’2024),https://forum.arbitrum.foundation/t/the-arbitrum-foundation-bi-annual-progress-update-h1-2024/26538,"Introduction
+As part of The Arbitrum Foundation’s ongoing commitment to transparency, the Foundation is excited to publish its Progress Update for the first half of 2024 (H1’2024). This report is a bi-annual update to the Transparency Report published annually (in the first quarter) and details the Foundation’s activities and their impact on the Arbitrum ecosystem.
+
+
+docs.arbitrum.foundation
+
+
+
+ArbitrumFoundationBiannualReport2024H1-c8e9ab997fe68ad09c0105181f9826d8.pdf
+61.84 MB
+
+
+
+
+
+As per the 2"
+3,List of projects banned from the DAO,https://forum.arbitrum.foundation/t/list-of-projects-banned-from-the-dao/26097,"The following projects are banned from the ArbitrumDAO:
+
+Furucombo (as ratified in this Snapshot vote)"
+4,Improving Predictability in Arbitrum DAO’s Operations - Ratification,https://forum.arbitrum.foundation/t/improving-predictability-in-arbitrum-dao-s-operations-ratification/25854,"Overview:
+With the DAO expressing support in the temperature check to improve predictability in the Arbitrum DAO’s Operations, this post aims to ratify the common guidelines listed in the proposal as a social agreement across delegates and DAO contributors.
+Guideline 1: Start all votes on Thursdays
+By starting both Snapshot and Tally votes on Thursday, on top of increasing predictability for delegates, the DAO would also prevent the scenario where votes begin/end on weekends.
+Create Onchain AIPs"
+5,The Constitution of the Arbitrum DAO,https://forum.arbitrum.foundation/t/the-constitution-of-the-arbitrum-dao/14301,"docs.arbitrum.foundation
+
+
+The Amended Constitution of the Arbitrum DAO | Arbitrum DAO - Governance docs
+Read ""The Constitution of the Arbitrum DAO"", the ultimate governing document of the Arbitrum DAO. Arbitrum DAO's smart contracts implement the protocols described in this document."
+6,Arbitrum ArbOS upgrades,https://forum.arbitrum.foundation/t/arbitrum-arbos-upgrades/19695,"Overview
+In this post, we’ll explain the necessary steps for upgrading the rules of an Arbitrum chain (namely, its state transition function). Changing the rules of an Arbitrum chain requires two things to happen: Arbitrum nodes must update their software, and an on-chain operation (i.e., a governance proposal) must take place. We’ll compare and contrast upgrades to an Arbitrum Layer 2 with upgrades to Layer 1 Ethereum to illustrate why the on-chain component of an Arbitrum upgrade isn’t just a "
+7,Arbitrum Foundation Transparency Report 2023,https://forum.arbitrum.foundation/t/arbitrum-foundation-transparency-report-2023/21135,"The Arbitrum Foundation and the ArbitrumDAO are 10 months old and it has been an amazing year for the community.
+As part of the Arbitrum Foundation’s commitment to transparency and giving the community insight into Foundation’s operations, today the Foundation is sharing the first annual transparency report.
+
+
+
+docs.arbitrum.foundation
+
+
+The Arbitrum Foundation Documents | Arbitrum DAO - Governance docs
+A collection of documents relating to The Arbitrum Foundation, including its setup and proces"
+8,GovHack - ETHDenver powered by Hack Humanity,https://forum.arbitrum.foundation/t/govhack-ethdenver-powered-by-hack-humanity/21119,"800×800 627 KB
+The Arbitrum Foundation and Hack Humanity are co-hosting a 3-day Governance Bootcamp and Open Community showcase during the week prior to ETHDenver!
+Dates: February 26 - 28th
+Link to register: Arbitrum GovHack · Luma
+GovHack is a unique opportunity to roll up your sleeves and work side by side with fellow Arbitrum contributors to build workstreams, design frameworks and ultimately ship proposals IRL. Form new friendships and collaborations with like-minded folks along the way!
+Why"
+9,"Fix Fee Oversight ArbOS v20 ""Atlas""",https://forum.arbitrum.foundation/t/fix-fee-oversight-arbos-v20-atlas/22152,"Request Non-Emergency Security Council Action
+Abstract
+The transaction fee paid by users is composed of two parts, L2 fees and L1 fees, which together include the execution cost for running the transaction on Arbitrum alongside the cost of posting data to Ethereum (to learn more about this, read the deep dive on the subject).
+Historically, the rollup fee market has been dominated by the L1 cost component. With the Dencun upgrade soon being enabled on Ethereum, the current pricing structure may n"
+10,Community Guidelines,https://forum.arbitrum.foundation/t/community-guidelines/12807,"Welcome to the Forum!
+This forum is dedicated to discussions and exchange of ideas related to governance.
+Please read the following guidelines carefully to ensure a productive and respectful community.
+Stay on topic: This forum is dedicated to discussions related to governance only. Please refrain from discussing unrelated topics. Off-topic or irrelevant posts may be removed by the moderators.
+Be respectful: Respect other forum members, their opinions, and their rights to express themselves. Do "
+11,About the Procurement & Nominations category,https://forum.arbitrum.foundation/t/about-the-procurement-nominations-category/25455,"Dedicated to advertising new opportunities for DAO approved programs.
+To keep the category tidy, it is recommended to create a single thread for each nomination / procurement process, and require applicants to reply in the same thread."
+12,Announcement: Subsidy Fund Applications OPEN!,https://forum.arbitrum.foundation/t/announcement-subsidy-fund-applications-open/27027,"Applications are officially open for the ArbitrumDAO Security Subsidy Fund!
+The SSF will allocate up to $2.5m towards subsidising the cost of approved security services for applicable projects within the Arbitrum ecosystem.
+This 8-week SSF program began accepting applications as of September 30th, 2024 and will run until December 2nd, 2024 [incorporating a 1-week break for DevCon].
+The application period will run from 00:00 UTC on September 30th, 2024 to 23:59 UTC on October 14, 2024.
+All 40+ ap"
+13,Announcement: Whitelisted Providers for the ADPC Security Services Panel,https://forum.arbitrum.foundation/t/announcement-whitelisted-providers-for-the-adpc-security-services-panel/26544,"Dear all,
+We are excited to announce the first group of security service providers who have been whitelisted under the ADPC Security Services Panel and Procurement Framework. This milestone follows the successful completion of the rigorous Application Process, as outlined in the official RFP [Request for Proposal - The ADPC Security Services Panel and Procurement Framework]
+The following providers have met the stringent criteria established by the ADPC and have been approved to offer their servi"
+14,GCP Council Nominations,https://forum.arbitrum.foundation/t/gcp-council-nominations/25093,"Latest update on nomination instructions:
+
+
+
+GCP Council Nominations Procurement & Nominations
+
+
+    Please note these updates that were added yesterday! 
+Hi all, 
+We have some important updates regarding the GCP Council nomination and voting timeline! 
+Extended nomination timeline: 
+To accommodate those traveling for EthCC and to give DAO members sufficient time to apply or nominate, we are extending the nomination deadline to the end of the day on Friday, July 12. 
+Further clarification of the"
+15,Request for Proposal - The ADPC Security Services Panel and Procurement Framework,https://forum.arbitrum.foundation/t/request-for-proposal-the-adpc-security-services-panel-and-procurement-framework/25031,"[Edit 20-Jun-2024: Changed “Appendix A” to “Appendix 1”]
+[Edit 01-Jul-2024: Fix Typo in contact email. Correct email address is: arbitrumdaoprocurementcommitte@gmail.com]
+[Edit 05-Jul-2024: extended deadlines]
+[Edit 24-Jul-24: clarified evaluation period and updated submission dates to reflect the official dates]
+This post officially launches the ADPC Security Services Panel and Procurement Framework and invites applications from security service providers and software auditors to become whiteli"
+16,Arbitrum Multi-sig Support Service (MSS) Nomination Thread,https://forum.arbitrum.foundation/t/arbitrum-multi-sig-support-service-mss-nomination-thread/24773,"Arbitrum Multi-sig Support Service (MSS) Application
+This is the application thread for the Arbitrum Multi-sig Support Service (MSS). Qualified individuals and organizations should use the template below to nominate themselves if interested in taking on the role. Applications should be posted as a response to this thread. The application window will close 2 weeks from today, on Wednesday June 19th, at 11:59 PM UTC.
+Summary
+The MSS will comprise 12 elected individuals to all DAO-funded multi-sigs"
+17,How to submit a DAO Proposal,https://forum.arbitrum.foundation/t/how-to-submit-a-dao-proposal/13494,"How to submit a DAO Proposal
+1. Discourse
+https://forum.arbitrum.foundation/ is a forum for governance related discussions.
+Community members must register for an account before sharing or liking posts.
+The Proposal is suggested on the discourse and discussed for 1 week.
+To create a Proposal:
+Navigate to the Proposals Category and create a new topic.
+The proposal should have the following format:
+
+Title – Proposal: [Insert Description]
+Constitutional / Non-Constitutional - For clarity, please re"
+18,Writing Your First Proposal to the ArbitrumDAO,https://forum.arbitrum.foundation/t/writing-your-first-proposal-to-the-arbitrumdao/21366,"The ArbitrumDAO boasts an impressive treasury, consisting of 35% of all ARB tokens and all revenues from Arbitrum One and Nova. This means if you have a worthy idea, not only can you bring it to life, but you can also secure funding for it.
+You may be one proposal away from a side gig, a full time role, or a startup that begins its life by serving the ArbitrumDAO.
+Proposal Lifecycle
+The forum acts as a public platform to facilitate discussion on proposals between the authors, community, and the "
+19,Support to Establish GrantsDAOs,https://forum.arbitrum.foundation/t/support-to-establish-grantsdaos/19908,"One success metric for the ArbitrumDAO is its ability to embrace an ecosystem of grant programs run by independent organizations who all share the same vision: how to grow the ecosystem of builders and build a better Arbitrum.
+To help bootstrap this process, the Arbitrum Foundation will allocate $250,000 USD and support the community to establish alternative frameworks for future grant programs approved by the ArbitrumDAO and as such create a pathway for the creation of multiple GrantDAOs, which"
+20,About the Proposals category,https://forum.arbitrum.foundation/t/about-the-proposals-category/19,Review community-submitted proposals that await voting by the DAO.
+21,[RFC](Non-Constitutional) Proposal: Integrating zkTLS-Powered Oracle Solution (zkFetch) for Arbitrum,https://forum.arbitrum.foundation/t/rfc-non-constitutional-proposal-integrating-zktls-powered-oracle-solution-zkfetch-for-arbitrum/27012,"Note: This is an initial draft of the proposal. The content will be refined and updated based on community feedback and discussions. Your input is crucial in shaping the final version.
+Abstract
+This AIP seeks funding for the development & integration of zkFetch, a zero-knowledge proof-based data fetching service, into the Arbitrum ecosystem. zkFetch will provide cryptographically verifiable, privacy-preserving oracle solution for any off-chain data, enhancing Arbitrum Ecosystems DApp’s security "
+22,[Non-Constitutional] Arbitrum Token Swap Pilot Program,https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-token-swap-pilot-program/27106,"Abstract
+The Arbitrum Token Swap Pilot proposal is the next step toward the long-term effectiveness and sustainability of ecosystem support programs in the broader Arbitrum ecosystem.
+In this initial pilot phase, we prioritize mature protocols on Arbitrum, the so-called Arbitrum Blue Chips, of which 19 have been identified. The pilot aims to swap with 3-7, with a maximum swap budget of 2M ARB and a cap of 0.5M ARB per project.
+We foresee token swaps as a complimentary mechanism to the current in"
+23,Establishing a DAO Events Budget for 2025,https://forum.arbitrum.foundation/t/establishing-a-dao-events-budget-for-2025/26734,"Key Changes Made (October 10th)
+After further consideration and taking into account the outcome/discussion from the ArbitrumDAO Off-site Snapshot, the quoted group has decided to remove the planned delegate offsite at Token2049 Dubai. This will leave more funds available for ecosystem growth events. Delegate offsites can still be proposed by individuals or event service providers and pull funds from the established budget.
+Key Changes Made (October 1st)
+This change was made to ensure everyone is"
+24,[Non-Constitutional] Treasury Management v1.1,https://forum.arbitrum.foundation/t/non-constitutional-treasury-management-v1-1/26967,"Abstract
+On September 12th, Entropy hosted a preliminary treasury working group call (recordings available here) in an effort to align all of the different parties within the DAO on the optimal path forward when it comes to managing the different sections of the DAO’s balance sheet. I.e., chain profits (ETH) and tokens that have been authorized for spend but have not entered circulation yet (ARB). The primary points of contention were around ARB diversification, the need for a DAO budget before "
+25,[NON-CONSTITUTIONAL] - Arbitrum Research and Development Collective [Term 2],https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-research-and-development-collective-term-2/26922,"ARBITRUM RESEARCH & DEVELOPMENT COLLECTIVE [V2]
+Update log:
+
+[30/09/2024] Snapshot Date: 10th October 2024
+[10/10/2024] Snapshot Date: 18th October 2024
+[16/10/2024]
+
+A brief summary of the changes carried out include:
+
+Removal of the Operations Lead Position: The responsibilities previously managed by the Operations Lead will now fall under the Supervisory Council’s remit.
+Removal of Hats Protocol: No longer included in the proposed framework, saving 45,000 ARB in costs.
+Extension Option for th"
+26,[Non-Constitutional] Arbitrum DAO Delegate Code of Conduct + Formalizing the DAO's Operations,https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-dao-delegate-code-of-conduct-formalizing-the-daos-operations/27188,"Abstract
+This proposal introduces a delegate code of conduct for Arbitrum DAO alongside additional improvements to the DAO’s operational standards. The Code of Conduct sets expectations for delegate behavior, emphasizing transparency, professionalism, and integrity.
+The proposal will go to a Snapshot vote for ratification on October 31st, requiring a majority approval and quorum set as at least 3% of all votable tokens having cast votes in favor or abstaining. If approved, the Code of Conduct an"
+27,Arbitrum Offsite format: online vs IRL,https://forum.arbitrum.foundation/t/arbitrum-offsite-format-online-vs-irl/26629,"ArbitrumDAO Off-site
+Non-Constitutional
+This proposal is a continuation of the directional proposal for an offsite which was voted in favour with 130mn ARB in Snapshot: ArbitrumDAO Off-site - Directional proposal
+IMPORTANT:
+Please vote based on the format selection. If you have concerns about the mechanism to define attendees or specific budget items (e.g. travel scholarships), please use a comment. Feel free to explain that any Tally approval vote would be conditional on XYZ. The vote I’m tryin"
+28,[RFC] Fund The Stylus Sprint,https://forum.arbitrum.foundation/t/rfc-fund-the-stylus-sprint/26437,"Stylus Sprint
+TLDR of updates made on October 3rd:
+
+Additional Evaluation Committee Members: SEEDGov and JoJo have agreed to join the evaluation committee.
+Soft Request “Cap”: Language was added to specify a soft request “cap” of 500k ARB (10% of the program budget), which is dependent on the total ARB requested in the program. Applicants requesting greater than 500k ARB may be sent to the DAO directly.
+MSS-controlled multi-sig: Additional clarification has been added that funds will be managed "
+29,Proposal - Delegate Incentive Program (DIP),https://forum.arbitrum.foundation/t/proposal-delegate-incentive-program-dip/26496,"Last update: 02/10/2024
+This proposal has been updated based on feedback from delegates provided in this thread during the two calls we organized, as well as through discussions in the delegates’ Telegram group and private contributions from several delegates. We would like to thank the entire ArbitrumDAO community for their valuable input.
+TL;DR
+
+
+Expand the program by introducing a new and improved version, to be implemented over the course of a year.
+
+
+We propose a total budget of USD 4.2 mil"
+30,Boosting DAO Efficiency by 10x: Aligning Accountability & Increasing Throughput,https://forum.arbitrum.foundation/t/boosting-dao-efficiency-by-10x-aligning-accountability-increasing-throughput/27051,"Non-constitutional AIP
+1600×795 150 KB
+Abstract
+The Arbitrum DAO system, while having significant activity and throughput, lacks clear alignment and accountability, undermining confidence in its impact. Simply put, the community has varying confidence that our current way of working can and should continue.
+This proposal would sign Disruption Joe and Alex Lumley to six-month exclusive full-time work for Arbitrum DAO.
+The total risk is the cost of paying them. The potential upside is the alleviat"
+31,Enhancing Multichain Governance: Upgrading RARI Governance Token on Arbitrum,https://forum.arbitrum.foundation/t/enhancing-multichain-governance-upgrading-rari-governance-token-on-arbitrum/26096,"This is a draft proposal by the Rari Foundation to gather community feedback to finalize this proposal for submission to the Arbitrum DAO.
+Abstract
+The RARI DAO seeks to enhance its governance framework by upgrading the RARI token contract and bringing its governance from Ethereum mainnet to the Arbitrum ecosystem. This proposal requests to regirster a custom gateway for a new RARI L2 token contract via Arbitrum native bridge, as only the Arbitrum DAO can implement this change. The custom gatewa"
+32,Questbook DDA Program Phase 2 Request for Continuation,https://forum.arbitrum.foundation/t/questbook-dda-program-phase-2-request-for-continuation/21326,"I would like to thank all the community members and delegates for reviewing and sharing comments on our proposal. Thank you to the Domain allocators of the Questbook DDA grant program round 1, @JoJo, @cattin, @Juandi and @Flook for their valuable inputs and feedback of the program. Thanks to @krst for the feedback and demo day calls setup to showcase the impact of the program to the delegates and community so far and the feedback with which we have planned to improve the DDA program by.
+Proposal"
+33,ArbitrumDAO Off-site - Directional proposal,https://forum.arbitrum.foundation/t/arbitrumdao-off-site-directional-proposal/25660,"ArbitrumDAO Off-site
+Non-Constitutional (not even a proposal yet, just a temp check)
+Should we explore an offsite?
+The Problem
+We’re missing structured platforms for delegates and key stakeholders to engage deeply and collaboratively on key topics around DAO strategy and organisation design, leading to bottlenecks and slow and painful decision-making.
+Solution
+Over a few informal conversations during EthCC, I got positive sentiment around the idea of organizing an Offsite for delegates, key stak"
+34,Proposal for Financial Restitution For ArbitrumDAO Grant Winners,https://forum.arbitrum.foundation/t/proposal-for-financial-restitution-for-arbitrumdao-grant-winners/27020,"I am introducing a proposal to the ArbitrumDAO for financial compensation for a number of winners that participated in “ArbitrumDAO’s Biggest Minigrants Round Ever.”
+This was a grant round with 32 winners over a period of 8 weeks, starting in January 2024. I shared a timeline and summary of the experience on the Arbitrum Forum here:
+
+
+
+
+ArbitrumDAO's 'Biggest Minigrants Program Ever' Fiasco Summary Grants Discussions
+
+
+    I am sharing here on this forum as one of the contest winners in the Arbi"
+35,[Non-Constitutional] Funds to Bolster Foundation’s Strategic Partnerships Budget,https://forum.arbitrum.foundation/t/non-constitutional-funds-to-bolster-foundation-s-strategic-partnerships-budget/26775,"Abstract
+This proposal requests 250 million ARB with the main objective to enable The Arbitrum Foundation to further foster key strategic partnerships. All expenditures will follow The Arbitrum Foundation’s well-established practices and evaluation criteria when pursuing partnership deals, as detailed in a high level manner here and here (these guidelines apply mainly for the Foundation Grant Program, however, it offers insight into what the Foundation looks at when giving strategic grants or es"
+36,Non-Constitutional: Stable Treasury Endowment Program 2.0,https://forum.arbitrum.foundation/t/non-constitutional-stable-treasury-endowment-program-2-0/26819,"Abstract
+This vote authorizes transfer of another 35 million ARB to the STEP multisig for the next edition of the Stable Treasury Endowment Program (STEP), for diversifying Arbitrum DAOs treasury into real world assets that are stable in value, liquid in conversion and have yield uncorrelated to crypto markets. The ARB will be converted by the Arbitrum Foundation only when macroeconomic conditions improve and the total amount obtained is similar to or higher than the first iteration (which got $"
+37,Non-Constitutional: Arbitrum Proposals App (GovHack Brussels Winner),https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-proposals-app-govhack-brussels-winner/25370,"We just got a smaller questbook grant approved to build this same scope of functionality over the next 4 months for a total of 43,000.00 USD. We will use this thread to record the progress of it and to report on the project milestones. Thank you 
+
+Arbitrum Proposals App
+Non-Constitutional
+Challenge Statement:
+Right now, DAO delegates want to understand proposals efficiently and accurately, but proposal information is scattered all over the place (tweets, Discord servers, Telegram chats, discours"
+38,[RFC] Incentives Detox Proposal,https://forum.arbitrum.foundation/t/rfc-incentives-detox-proposal/25849,"The following reflects the views of L2BEAT’s governance team, composed of @krst and @Sinkas, and it’s based on the combined research, fact-checking, and ideation of the two.
+TL;DR
+
+We agree that incentives are necessary for the continuous growth of individual protocols but also for the ecosystem as a whole.
+We propose not to rush into creating another incentive program and to agree on a 3-month break once the current incentive distribution periods conclude.
+During the break, we should focus on a"
+39,Arbitrum DAO Procurement Committee: Phase II Proposal,https://forum.arbitrum.foundation/t/arbitrum-dao-procurement-committee-phase-ii-proposal/26441,"Contents
+I. Executive Summary
+II. Background of the ADPC
+III. Achievements & Progress
+IV. Key Learnings & Improvements from Phase I
+V. Phase II Mandate
+VI. Budget & Methodology
+VII. Methodology for Shortlisting Verticals for Phase II
+VIII. Transparency & Community Engagement
+IX. Checks & Balances
+X. Multi-Sig
+XI. ARB Conversion Strategy
+I. Executive Summary
+Background
+The Arbitrum DAO Procurement Committee (”ADPC”), composed of Axis Advisory, Areta, and Daimon Legal, is coming to the end of its "
+40,Proposal [Non-Constitutional]: Funding DAO Legal Defence and Advocacy with Defi Education Fund,https://forum.arbitrum.foundation/t/proposal-non-constitutional-funding-dao-legal-defence-and-advocacy-with-defi-education-fund/23062,"Overview
+This proposal is to provide the DeFi Education Fund (DEF) with one million ARB across two disbursements to support them in fulfilling their mission.
+Introduction
+The DeFi Education Fund (DEF) is the only advocacy organization that focuses specifically on fighting for policy outcomes favorable to decentralized finance developers and users on the ground in Washington, DC. The DEF uniquely provides a dedicated voice for DAOs and DeFi in legislative, regulatory, and legal advocacy efforts. "
+41,Ethereum Protocol Attackathon Sponsorship,https://forum.arbitrum.foundation/t/ethereum-protocol-attackathon-sponsorship/26122,"Ethereum Protocol Attackathon Sponsorship
+Non-Constitutional
+Abstract
+This proposal seeks funding from the Arbitrum DAO to support an “Attackathon,” a large-scale security audit event organized by the Ethereum Foundation and hosted on the Immunefi platform. The Attackathon will focus on enhancing the security of the Ethereum protocol through three phases: education, active code hunting, and result evaluation. The initiative aims to raise over $2 million, with $500,000 already committed from the "
+42,Constitutional - Extend Delay on L2Time Lock,https://forum.arbitrum.foundation/t/constitutional-extend-delay-on-l2time-lock/26470,"Abstract
+The ArbitrumDAO has on-chain governance via a suite of smart contracts. It allows the ArbitrumDAO to spend funds from its treasury alongside upgrading any smart contract that governs Arbitrum One or Arbitrum Nova. The on-chain smart contract suite includes a voting protocol alongside a series of contracts that will forward the proposal’s intended action to the correct destination before executing it.
+The proposal focuses on extending the time delay between when the voting protocol has c"
+43,Proposal [Non-Constitutional] Arbitrum Treasury Token Swap Program,https://forum.arbitrum.foundation/t/proposal-non-constitutional-arbitrum-treasury-token-swap-program/23303,"See the latest draft HERE on post number 24
+
+Note: The version below is deprecated but kept for record purposes
+
+Title – Proposal [Non-Constitutional] Arbitrum Treasury Token Swap Program
+Abstract - We seek comments on the Arbitrum Treasury Token Swap Program, a proposal to elect 5 dealmakers for negotiating token swaps with top apps in our ecosystem. This proposal does NOT seek to transfer any large funds, only enough to elect, empower and compensate dealmakers who upload token swap agreements "
+44,"Constitutional AIP: Proposal to adopt Timeboost, a new transaction ordering policy",https://forum.arbitrum.foundation/t/constitutional-aip-proposal-to-adopt-timeboost-a-new-transaction-ordering-policy/25167,"UPDATE as of MONDAY, 10/7/2024
+
+Timeboost Implementation Adjustments
+Timeboost’s design is the culmination of over a year of research and development by the team at Offchain Labs. While the on-chain implementation will be independently audited by Trail of Bits before the Tally vote, the long term performance of Timeboost can only truly be evaluated with real-world data - data that can help hone and fine-tune Timeboost’s design for the benefit of the ArbitrumDAO.
+To that end, although the auction"
+45,**Non-Constitutional: Terms of Tenure for STEP Program Manager**,https://forum.arbitrum.foundation/t/non-constitutional-terms-of-tenure-for-step-program-manager/26675,"Abstract - On June 12th 2024, the DAO held an election for the role of STEP program manager to oversee ~$30 million diversified into liquid, stable and yield bearing RWAs .
+Steakhouse Financial won the vote with 60% in favor of their selection. However, the tally vote earmarked 100k ARB as payment to program manager for one year (which converted to $86,581) while Steakhouse quoted a fee of $174,000 in their application. This proposal seeks input on the right way forward, with the options to
+
+App"
+46,Research on context and retention,https://forum.arbitrum.foundation/t/research-on-context-and-retention/26807,"Research on context and retention
+Non-Constitutional
+Abstract
+TogetherCrew is a project, incubated in RnDAO, that aims to empower communities with their data. With a team of network scientists, TogetherCrew is researching how Web3 social networks behave, with a special emphasis on retaining new community members and community health.
+TogetherCrew is requesting read access to Arbitrum’s Discourse and Discord API to run an analysis with our partners (researchers at the University of California San"
+47,About the DAO Programs & Initiatives category,https://forum.arbitrum.foundation/t/about-the-dao-programs-initiatives-category/18775,Grant programs can share significant updates and run initiatives for the broader community.
+48,GCP Update Thread,https://forum.arbitrum.foundation/t/gcp-update-thread/24982,"The GCP Working Group will post regular updates on this thread to keep stakeholders and community members informed on roadmap, priorities, and other important news."
+49,Merge Madrid sponsorship - Final Report,https://forum.arbitrum.foundation/t/merge-madrid-sponsorship-final-report/27227,"Hi there, as member of the Merge Madrid team, I would like to update the info about the Arbitrum sponsorship results.
+Now that Merge Madrid has wrapped up, please find the final report for Arbitrum, highlighting all the milestones we’ve achieved:
+
+
+docs.google.com
+
+
+
+Arbitrum REPORT for Grant.docx
+Merge Madrid  The Web3 event that unites Latin America with Europe and Technology with Culture, in the city of Madrid.  Qué es Merge Madrid  Merge Madrid es Grant Milestone Tracking Report Project: Arb"
+50,Reconfirmation of GCP Council Appointees,https://forum.arbitrum.foundation/t/reconfirmation-of-gcp-council-appointees/27142,"The Tally vote (link) for establishing the GCP Foundation laid out a process for the creation of the initial GCP Council (Council) to govern and oversee the setup and mobilization of GCP. As part of that process three council members were elected and two members are to be appointed by the GCP Working Group (WG) who are subject to reconfirmation by the DAO.
+On behalf of the council let me apologize for the delay in coming to the DAO to commence the reconfirmation process for the two council nomin"
+51,Post-event report: Ethereum México 2024,https://forum.arbitrum.foundation/t/post-event-report-ethereum-mexico-2024/27213,"GM all!
+My name is Brichis, and I’m one of the co-founders of Ethereum México. In September, we held our flagship event, Ethereum México 2024, in Mérida, Yucatán. We were grantees of the Domain Allocator: Education, Community Growth, and Events in this second iteration, so I wanted to share our post-event report with you all.
+It’s a 16-page report, so I’ll share the link. I hope you enjoy it!
+
+
+drive.google.com
+
+
+
+Reporte Arbitrum.pdf
+Google Drive file.
+
+
+
+
+
+The report includes some interesting "
+52,Arbitrum LATAM Report — September 2024,https://forum.arbitrum.foundation/t/arbitrum-latam-report-september-2024/27060,"Banner Fino799×240 139 KB
+Arbitrum LATAM Report - September 2024
+Summary 
+September 2024 was a significant month for the Arbitrum LATAM team as we continued our commitment to expanding the Arbitrum ecosystem across Latin America. Our emphasis on academic partnerships, community engagement, and content delivery has generated significant interest and participation within LATAM communities. As we wrap up our Stage 2 grant, we reflect on our achievements and the new opportunities that have emerged f"
+53,Arbitrum LATAM Report — July 2024,https://forum.arbitrum.foundation/t/arbitrum-latam-report-july-2024/26106,"Banner Fino799×240 139 KB
+Arbitrum LATAM Report - July 2024
+Summary 
+In July 2024, the Arbitrum LATAM team continued its work to promote and educate about the Arbitrum ecosystem within the Latin American community. This report highlights our key activities, achievements, and metrics for the month.
+July’s Activities 
+Academic Collaborations 
+Austral Logo537×189 9.08 KB
+Class for Austral University
+On July 3, 2024, we conducted a nearly three-hour class for the Diploma in Capital Markets at Austra"
+54,Arbitrum LATAM Report — June 2024,https://forum.arbitrum.foundation/t/arbitrum-latam-report-june-2024/25521,"Banner Fino799×240 139 KB
+Arbitrum LATAM Report — June 2024
+Stage 2  
+After successfully completing its initial phase, Arbitrum LATAM has been approved for a second round of its Latin America-focused program. This next stage emphasizes forging strong academic collaborations and strategic ecosystem partnerships, aiming to expand on its early achievements and establish a compelling narrative and strong growth-force for Arbitrum within the Latin American region.
+This second stage will run from June"
+55,Arbitrum LATAM Report — February 2024,https://forum.arbitrum.foundation/t/arbitrum-latam-report-february-2024/22243,"Arbitrum LATAM Report — February 2024
+The Project So Far…
+The project began in January 2024, and since then, the involved teams have been working on optimizing the networks and the new Arbitrum website for Spanish-speaking users for its official launch. With a focus on community growth and education, the project has aimed to maintain contact with the LATAM communities, create original content, and disseminate it while also planning for the future creation of offline events and talks at universit"
+56,"[REPORTS THREAD] Arbitrum Education, Community Growth and Events Domain 2.0",https://forum.arbitrum.foundation/t/reports-thread-arbitrum-education-community-growth-and-events-domain-2-0/27190,"Report N°3: Arbitrum Education, Community Growth and Events Domain 2.0
+Introduction
+This is third report on Arbitrum Education, Community Growth, and Events 2.0 Domain, we present an update on the distribution of funds to approved projects
+Previous Reports
+Feel free to check our previous reports:
+- Report 1 
+- Report 2 
+Updated Budget approved
+The table below shows all approved projects and their progress as provided on Questbook’s platform:
+
+
+
+
+
+Projects
+Funding
+Milestones
+Final Report
+
+
+
+
+1
+[L"
+57,ETH Bolivia 2024 Buildathon Final Report,https://forum.arbitrum.foundation/t/eth-bolivia-2024-buildathon-final-report/27194,"Arbitrum Grant Report: ETH Bolivia 2024 - Buildathon & Conference
+
+ Introduction
+
+On behalf of the organizing team, we extend our deepest gratitude to Arbitrum for sponsoring the largest Blockchain and Web3 event in Bolivia, the ETH Bolivia 2024: Buildathon & Conference. Your support was instrumental in making this event a success, fostering innovation, and expanding the Arbitrum ecosystem.
+ Event Results
+
+ Deployment of Projects on Arbitrum
+Smart Contracts Deployed: A total of 13 smart contract"
+58,[REPORTS THREAD] New Protocols and Ideas Domain 2.0,https://forum.arbitrum.foundation/t/reports-thread-new-protocols-and-ideas-domain-2-0/27193,"Report: New Protocols and Ideas Domain 2.0
+The following is the final report for the “New Protocols and Ideas” domain for Questbook. This report highlights the activity of Season 2 of Questbook, starting from May 2024 to October 2024 and distributing $770,250 to applicants, with softcaps of up to $25,000 for an evaluation of a single DA and up to $50,000 for two DAs. All payments have been denominated in USDC.
+Note: while the initial proposal stated that, in case of ARB conversion of less than $"
+59,MSS for Arbitrum - Communication Thread (Arbitrum Multisig Support Service),https://forum.arbitrum.foundation/t/mss-for-arbitrum-communication-thread-arbitrum-multisig-support-service/26508,"This is the official communication thread for the Arbitrum Multisig Support Service (MSS).
+The proposal passed Tally on Sunday, August 18th, 2024. See the Tally proposal."
+60,LTIPP Retroactive Community Funding,https://forum.arbitrum.foundation/t/ltipp-retroactive-community-funding/26903,"LTIPP Retroactive Community Funding
+100,000 ARB from the LTIPP was allocated for retroactive funding to community members who add valuable contributions during the Pilot Program.
+DAO members who feel they have contributed meaningfully to the LTIPP program can apply by replying to this forum thread using the application template below.
+The DAO will vote via a single Approval Snapshot vote to decide which if any, retroactive applications should be paid. The DAO does not have to spend the entire 10"
+61,GCP Fund Security Review & Oversight,https://forum.arbitrum.foundation/t/gcp-fund-security-review-oversight/27123,"GCP Fund Security Review & Oversight
+Summary
+This proposal moves 220,000,000 ARB from the Gaming Catalyst Program (GCP) multisig to the Arbitrum DAO treasury. This will leave 3,650,000 ARB for the GCP to continue operations until needing to seek a transfer of more funds from governance. It is unconscionable to continue to allow a 3/5 multisig hold $120M in ARB when they have failed to meet their agreed on oversight obligations.
+Motivation
+
+
+It is less safe to leave such large amounts of funding "
+62,DexPal Completion Report - Questbook Season 2,https://forum.arbitrum.foundation/t/dexpal-completion-report-questbook-season-2/27187,"Project information
+DexPal is the ultimate trading dashboard and analytics tool for trading perpetual contracts on decentralized exchanges (DEXs). Our platform provides a seamless experience for both seasoned and novice traders in DeFi, allowing them to easily navigate, compare DEXs, and aggregate their trading data across multiple exchanges and networks into a single dashboard.
+Grant impact
+Having the support of Arbitrums Questbook program had a lot of positive effects with our efforts to get A"
+63,The Arbitrum Foundation / GCP Observer Thread,https://forum.arbitrum.foundation/t/the-arbitrum-foundation-gcp-observer-thread/27175,"Hi All,
+The Arbitrum Foundation has been working with the GCP Working Group, the Interim Transparency Committee and the GCP Council to put together the GCP Foundation as approved by the ArbitrumDAO.
+The Arbitrum Foundation’s role, as outlined in the Tally proposal, is to help with the formation of the GCP Foundation and to put together governance documents that work in the best interest of the ArbitrumDAO.
+To recap the past four months and clarify some of the misinformation spreading, here are a"
+64,Dhive - The Premier Governance Data Hub,https://forum.arbitrum.foundation/t/dhive-the-premier-governance-data-hub/23157,"Gm Arbinauts 
+We are grateful that our project Dhive got accepted to receive a grant from Arbitrum through Questbook. 
+With this post we want to introduce ourselves, keep you updated on our progress and connect with individuals who share our passion for governance and analytics.
+TL;DR:
+Dhive’s goal is to answer governance-related questions and back them with data-driven insights.
+
+What we are building
+Dhive’s goal is to become the premier governance data hub, offering users a consolidated platfo"
+65,Arbitrum Governance and Development Initiative - Lampros Labs DAO (Questbook DDA Program Phase 2 Grantee),https://forum.arbitrum.foundation/t/arbitrum-governance-and-development-initiative-lampros-labs-dao-questbook-dda-program-phase-2-grantee/26315,"Executive Summary
+Lampros Labs DAO is excited to announce the launch of our Arbitrum Governance and Development Initiative in Gujarat, India. This initiative is funded by the Questbook DDA Program in the Arbitrum Education, Community Growth and Events 2.0 Domain. Our initiative aims to conduct educational sessions and workshops in 18 colleges across Gujarat, focusing on Web3 technologies, blockchain development, and Arbitrum governance. We aim to empower over 1,100 students with the skills and k"
+66,Experiment MILESTONE 3,https://forum.arbitrum.foundation/t/experiment-milestone-3/27021,"Continuing the discussion from A new experiment: Breaking The Blockchain Trilemma in preparation for the GCP:
+THIRD MILESTONE REACHED!
+TLDR - the blockchain trilemma has not been broken, BUT we’ve identified a path to do it, and we’ve brought a new star into the Arbitrum gaming constellation.
+OK So - work is wrapping up on an intense, informative and rewarding experiment with the Thrive team.
+For the sake of full transparency - we ran into some issues. Certain assumptions I made about core compo"
+67,Oasis Onchain Quick Grants,https://forum.arbitrum.foundation/t/oasis-onchain-quick-grants/25057,"Hello Arbitrum!
+We wanted to introduce the Oasis Onchain Quick Grants Program, in collaboration with Thank Arb.
+Program Description:
+The Oasis Quick Grants Program is the first active phase of the Oasis Onchain Ecosystem Fund - a program dedicated to nurturing the crypto ecosystem in the Caribbean and the Global South as a whole, while pushing to ensure that relevant solutions are accessible for Global South populations.
+We are excited to establish this grants program via the Arbitrum DAO and th"
+68,SONGS: Completion Report - Questbook Season 2,https://forum.arbitrum.foundation/t/songs-completion-report-questbook-season-2/27082,"SONGS: Completion Report - Questbook Season 2
+
+Project information
+SONGS Protocol Docs
+Open Music Distribution Protocol
+Music vertical on Royalties Protocol
+base-songs-images1600×836 78.6 KB
+
+Project Links:
+Deck
+
+App (Private Beta)
+
+https://app.songs-tools.com/
+
+Website
+
+https://songs-tools.com
+
+Masterplan
+SONGS Master Plan
+Codebase
+
+GitHub - SONGS-TOOLS/songs-protocol: Universal NFT Music Royalties Distributor protocol
+
+Docs
+
+https://docs.songs-tools.com/
+
+One-liner
+Own your music. All in one s"
+69,Timeswap STIP.B Bi-Weekly Update,https://forum.arbitrum.foundation/t/timeswap-stip-b-bi-weekly-update/25286,"Timeswap STIP.B Bi-Weekly Report #1 July 3rd 2024
+Recap of the Previous Two Weeks
+ARB Received Last Disbursement: 33,334 ARB
+ARB Utilized as Incentives in the Last Two Weeks: No distribution yet.
+Contracts incentivized over the last 2 weeks: No distribution yet.
+Contract address label Form 48 completed for all addresses: No. No distribution yet.
+ARB left over: 200,000 ARB
+Plan for leftover ARB: Continue as per original proposal.
+Summary of incentives:
+Timeswap has been allocated a total of 200,0"
+70,Gonana COMPLETION REPORT - QUESTBOOK SEASON 2,https://forum.arbitrum.foundation/t/gonana-completion-report-questbook-season-2/27067,"Project information:
+Gonana is a disruptive digital agricultural commodity marketplace designed to transform the traditional supply chain in the agricultural sector. Leveraging cutting-edge technologies such as blockchain, Gonana aims to address longstanding challenges smallholder farmers face every day due to broken supply chains, foster transparency, and empower stakeholders within the agricultural ecosystem. This comprehensive concept note outlines the key components, features, and benefits o"
+71,FairAI: Completion Report - Questbook Season 2,https://forum.arbitrum.foundation/t/fairai-completion-report-questbook-season-2/27065,"Project information
+FairAI is a decentralized marketplace for AI inferences with digital property rights. On our marketplace, companies can create requests for problems they have, and developers can aggregate open-source AI models or build machine learning models to develop solutions for those real-world problems. Anyone can then register to provide computation for those solutions, and the solutions’ responses can be NFTs on any blockchain. This allows end-users and companies to easily access an"
+72,GMX STIP Bridge Final Report,https://forum.arbitrum.foundation/t/gmx-stip-bridge-final-report/27033,"1500×600 791 KB
+Executive Summary
+GMX would hereby like to provide the final report on how the 5.4 million ARB grant from the Arbitrum DAO for the GMX STIP-Bridge campaign has been utilised.
+To recapitulate, the campaign’s main goals were to:
+
+Incentivise LPs based on a specific APR target to optimise the efficient allocation of incentives, minimise waste, and maximise the ROI for the protocol and the DAO, while continuing to bring more assets and TVL into the ecosystem.
+Stimulate on-chain engag"
+73,Alphaday - Arbitrum Dashboard (Completion Report - Questbook Season 2),https://forum.arbitrum.foundation/t/alphaday-arbitrum-dashboard-completion-report-questbook-season-2/27028,"Hello Arbitrum Community!
+We would like to introduce you to the Arbitrum Dashboard that was successfully developed and deployed on Alphaday:
+https://app.alphaday.com/b/arbitrum/
+image1908×989 214 KB
+Project information
+Alphaday is a powerful crypto workflow aggregator that pulls in news, on-chain data, social media, web3 services and much more into one customizable UI.
+Stay up to date with the latest in Arbitrum; scroll through news, watch videos, listen to podcasts, keep up with the forum, chec"
+74,Apply for the Security Subsidy Fund,https://forum.arbitrum.foundation/t/apply-for-the-security-subsidy-fund/27040,"The Security Subsidy Fund is open for applications.1920×1918 111 KB
+Applications are officially open for the Arbitrum DAO Security Subsidy Fund (SSF).
+With an allocation of $2.5 million, the SSF will help subsidise the cost of approved security services for eligible projects within the Arbitrum ecosystem.
+Applicants to the SSF will be evaluated against the criteria set out in the ADPC’s Means Test (find more information about how applicants will be assessed here). Successful applicants are eligi"
+75,Nominated Gaming & Venture Council Members,https://forum.arbitrum.foundation/t/nominated-gaming-venture-council-members/25075,"The GCP Working Group is excited to introduce two nominated council members, Tim Chang and Andrew Green! Tim and Andrew have exceptional track records in venture capital, investing, and games, perfectly aligning with the GCP’s mission to cultivate a thriving gaming ecosystem on Arbitrum. Their early involvement will ensure the GCP can operationalize quickly and sustainably.
+In September, both members will be going through a re-confirmation vote to ensure the DAO has a voice in selecting the best"
+76,Locale Network: Lending COMPLETION REPORT - QUESTBOOK SEASON 2,https://forum.arbitrum.foundation/t/locale-network-lending-completion-report-questbook-season-2/27032,"Locale Network: Lending COMPLETION REPORT - QUESTBOOK SEASON 2
+Project Information
+Locale Lending is a Web3 lending platform designed to revolutionize how loans are issued and managed. Our platform leverages dynamically adjusting smart contracts, zk-proofs, and real-time data feeds to deliver more efficient, transparent, and secure loan offerings. By utilizing Plaid APIs and off-chain computation, we provide an automated solution that continuously monitors borrowers’ financial data and adjusts l"
+77,About the Grants Discussions category,https://forum.arbitrum.foundation/t/about-the-grants-discussions-category/14299,"The community is encouraged to discuss ideas such as grant categories, forming committees to evaluate proposals, and creating a more open-door policy for conversations. This is an open discussion, and more input is welcome.
+This discussion forum was created based on community feedback, with the purpose of providing the DAO with a place to discuss opinions, draft guidelines, and facilitate constructive conversations among everyone at a single location. As it currently stands, all access to the DA"
+78,Arbitrum DAO Grants Domain Allocator Nominations,https://forum.arbitrum.foundation/t/arbitrum-dao-grants-domain-allocator-nominations/15759,"We’re excited to share that we’re opening up nominations for the Arbitrum DAO grants domain allocators. With reference to Delegated Domain Allocation by Questbook - Arbitrum DAO Grants, we propose community members self-nominate themselves for becoming domain allocators for the following domains:
+
+Gaming
+Developer Tooling on NOVA
+New Protocol Ideas
+Education, Community Growth and Events
+
+Nomination Process
+To be considered a candidate for a domain allocator for any of the above-listed domains, w"
+79,Utoken Arbitrum Report,https://forum.arbitrum.foundation/t/utoken-arbitrum-report/27102,"Utoken app interface1920×734 77.4 KB
+About Utoken
+The Utoken app, through a simple user interface, allows crypto natives, digital nomads, and freelancers to pay for services like data subscriptions using stablecoin and also offer digital services. Through a simple user interface, users (anyone with a stablecoin like USDC or USDT in their wallet) can pay for utility services like data subscriptions and electricity without having to off-ramp their crypto asset.
+Our goal was to bring more utility f"
+80,MusicaW3 Collective Drop x Oasis Grants & Thank ARB,https://forum.arbitrum.foundation/t/musicaw3-collective-drop-x-oasis-grants-thank-arb/27101,"GM!
+0xGonzalo here , founder of the onchain art collective MusicaW3. For those who don’t know us, MúsicaW3 is a community of independent Latin artists dedicated to offering free, high-quality education to musicians and creators across Latin America.
+I’m excited to share with you our Collective Drop, launched as part of the Quick Grants program from Oasis Onchain  and Thank Arbitrum. It dropped this Monday, October 7th, on Zora via the Arbitrum chain.
+A collective drop is a compilation collection"
+81,ArbitrumDAO's 'Biggest Minigrants Program Ever' Fiasco Summary,https://forum.arbitrum.foundation/t/arbitrumdaos-biggest-minigrants-program-ever-fiasco-summary/26920,"I am sharing here on this forum as one of the contest winners in the ArbitrumDAO/ThankARB Jokerace contest initiated in late January of 2024.
+For those that are not familiar, this was an 8-week series with four winners each week. It was coined ‘Arbitrum’s Biggest Mini-Grant Series Ever’ with 32 winners, each winning 2500 ARB (equivalent of roughly $5k USD at the time).
+Each week, contest applicants and winners were highlighted on social media, and winners were excited about their winnings and ad"
+82,Arbitrum and the Future of Web3 Gaming,https://forum.arbitrum.foundation/t/arbitrum-and-the-future-of-web3-gaming/21270,"This forum post aims to function as an educational hub for the Arbitrum DAO, focused on highlighting the potential impacts of web3 gaming on the Arbitrum ecosystem and its stakeholders.
+Contents here are expected to evolve and update as new information and data is available.
+Core Contributors: Dan Peng (@Djinn), Karel Vuong (@karelvuong), Xai Games, the Helika Team, other gaming ecosystem builders.
+Join the Gaming Working Group: https://t.me/+spktzHCOL4MwZGU5
+The Opportunity
+The global gaming in"
+83,Forse Report Gitcoin-Arbitrum Partnership Analysis,https://forum.arbitrum.foundation/t/forse-report-gitcoin-arbitrum-partnership-analysis/26865,"1600×900 77.9 KB
+Forse by Stablelab is excited to share this Forse Report on the outcomes of the Gitcoin-Arbitrum Partnership in the context of Pluralistic Grants framework adopted by the Arbitrum DAO and being executed by Thrive Protocol.
+We analyzed the characteristics of Thrive-powered rounds in comparison to Gitcoin activity in other chains, aiming to shed some light into their performance in terms of efficiency, equality, engagement, and participating users. We hope these key statistics wil"
+84,GovHack ETHcc Brussels 2024 - Impact Report - Hack Humanity,https://forum.arbitrum.foundation/t/govhack-ethcc-brussels-2024-impact-report-hack-humanity/26530,"Arbitrum GovHack Brussels 2024 - Impact Report
+1200×675 392 KB
+Title: GovHack ETHcc Brussels 2024
+Proposal ID: Arbitrum GovHack Brussels 2024
+
+Executive Summary
+Arbitrum GovHack Brussels 2024, a three-day event held just before EthCC, brought together over 200 participants from 16 countries to drive governance innovation within the Arbitrum ecosystem. The event culminated in the submission of 25 high-quality proposals across 10 tracks, each designed to enhance the DAO’s operations and strategic "
+85,Thank ARB x Cartographer Syndicate - Program Overview,https://forum.arbitrum.foundation/t/thank-arb-x-cartographer-syndicate-program-overview/25036,"About Cartographer Syndicate
+The Cartographer Syndicate, part of MetaGov’s Grant Innovation Lab, is a collective dedicated to advancing the Web3 grants ecosystem through innovative curation, aggregation, and funding approaches within the Arbitrum community. Through this grant from Thank ARB, we intend to:
+
+Develop the Onchain Grant Aggregator on Arbitrum with Gitcoin, Karma, and OpenSource Observer.
+Aggregate news and current events related to Web3 Grants via Crypto Grant Wire
+Experiment with no"
+86,Forse Lite Report: Analyzing Gitcoin and Jokerace Initiatives on Arbitrum,https://forum.arbitrum.foundation/t/forse-lite-report-analyzing-gitcoin-and-jokerace-initiatives-on-arbitrum/26559,"1600×900 83.7 KB
+Forse by Stablelab is excited to share this surface-level analysis of the performance and impact of Thrive-powered Gitcoin rounds and Jokerace contests on the Arbitrum network in the context of the Firestarters grant awarded by Arbitrum to Forse. With this lite report, we aim to provide a better understanding of how Gitcoin and Jokerace impact community engagement, drive growth, and generate lasting effects in the Arbitrum Ecosystem.
+These are our preliminary research findings, "
+87,Discussion: Reframing Incentives on Arbitrum,https://forum.arbitrum.foundation/t/discussion-reframing-incentives-on-arbitrum/19817,"Reflecting on STIP
+The Arbitrum Incentives Working Group successfully transformed a contentious governance stalemate into an imperfect, but ultimately successful, consensus framework. With the DAO’s adoption of the framework, delegates allocated 50M ARB in grants across 30 protocols, spurred by over 100 applications from diverse Arbitrum projects.
+As the DAO explores initiatives to adjust, extend, and amend STIP, it’s worth weighing the efforts spent on rectifying its flaws against the potential"
+88,Thank ARB Monthly Update: July 2024,https://forum.arbitrum.foundation/t/thank-arb-monthly-update-july-2024/26180,"Hi there, Arbitrum community 
+This ongoing report series serves as both a monthly summary of our work and an ongoing record of our progress. Additionally, this report is intended to be a transparent clearinghouse of information related to the operations of the Thank ARB (formerly known as Plurality Labs) grants program. This report provides updates on programs, deliverables tracking, financial details, and our asks of the community.
+As always, if you have any questions, feedback, or ideas, feel "
+89,Memories of a (grantor) cow: thoughts about incentives program and what could be next,https://forum.arbitrum.foundation/t/memories-of-a-grantor-cow-thoughts-about-incentives-program-and-what-could-be-next/25406,"Note: this thread will encompass only my personal voting reasons, and does not represent the opinions of any protocol or entity that I might be part of, partner with or contribute in any form. Remember, I’m just a cow.
+Inspired by a lot of talking, both in telegram and here at ETHcc with protocols and delegates, I thought it could have been interesting to write some random ideas after participating to STIP round 1 on the side of protocol, managing questbook season 1+2 as domain allocator (80+ pr"
+90,Thank ARB Monthly Update: June 2024,https://forum.arbitrum.foundation/t/thank-arb-monthly-update-june-2024/25438,"Thank ARB monthly update: June 2024
+Hi there, Arbitrum community 
+I am Julian, and I am the Thank ARB MarComms Manager. I’m working with the Thank ARB team to deliver Thank ARB Milestone 1b. Welcome to our June monthly status update!
+This ongoing report series serves as both a monthly summary of our work and an ongoing record of our progress. Additionally, this report is intended to be a transparent clearinghouse of information related to the operations of the Thank ARB (formerly known as Plural"
+91,GovHack ETHDenver 2024 - Impact Report - Hack Humanity,https://forum.arbitrum.foundation/t/govhack-ethdenver-2024-impact-report-hack-humanity/23239,"Arbitrum GovHack - ETHDenver 2024 - Impact Report
+CleanShot 2024-04-18 at 14.03.17@2x1920×1081 127 KB
+TL;DR
+
+The ArbitrumDAO GovHack took place over 3 days, hosted together with Hack Humanity, a combination of Governance Bootcamp and Open Community showcase during the week before ETHDenver.
+The fastest way to grok the GovHack vibe, accomplishments and potential for the future is to watch the 3-minute aftermovie here:
+
+
+
+
+
+This event was conceived by Hack Humanity, see the original pitch, forum p"
+92,Thank ARB Monthly Update: April 2024,https://forum.arbitrum.foundation/t/thank-arb-monthly-update-april-2024/24234,"Hi there Arbitrum community 
+This is Kat, the Thank ARB Grants Manager, and I’m working with the Thank ARB team to deliver the Thank ARB program. We have hit the ground running and wanted to give you an update on all the things that happened in April 2024. If you have any questions, feedback, or ideas, feel free to leave a comment. 
+Welcome to our April monthly status update! This ongoing report series serves as both a monthly summary of our work and an ongoing record of our progress. Additional"
+93,Thank ARB monthly update: May 2024,https://forum.arbitrum.foundation/t/thank-arb-monthly-update-may-2024/25144,"Hi there, Arbitrum community 
+I am Kat, and I am the Thank ARB Grants Manager. I’m working with the Thank ARB team to deliver Thank ARB Milestone 1b. Welcome to our May monthly status update!
+This ongoing report series serves as both a monthly summary of our work and an ongoing record of our progress. Additionally, this report is intended to be a transparent clearinghouse of information related to the operations of the Thank ARB (formerly known as Plurality Labs) grants program. This update prov"
+94,Allo on Arbitrum Hackathon: Results and Recap,https://forum.arbitrum.foundation/t/allo-on-arbitrum-hackathon-results-and-recap/20973,"Allo on Arbitrum Hackathon Recap
+Also see: Allo / Arbitrum Hackaton Hosted by BuidlBox, Allo & Arbitrum - 👋 News and Community - Gitcoin Governance
+Introduction:
+
+Hackathon Dates: Dec 8, 2023 → Jan 10, 2024
+Duration: 4 weeks
+Judging Period: Jan 10 → Jan 20, 2024
+Winner Announcement: Jan 25, 2024
+
+Overview:
+As part of “Arbitrum & Gitcoin Winter”, the Allo on Arbitrum Hackathon took place on December 8, 2023 through January 10, 2024. This hackathon was co-organized by Plurality Labs (via Arbitrum "
+95,[RFC] ArbitrumHub: A Request for Community Feedback and comments,https://forum.arbitrum.foundation/t/rfc-arbitrumhub-a-request-for-community-feedback-and-comments/23710,"Introduction
+image1280×426 40.4 KB
+ArbitrumHub is a platform designed to serve the ArbitrumDAO community by providing a single point of access to a wealth of information and resources, thanks to support from pL Labs led by @DisruptionJoe . It facilitates a streamlined approach for general users to engage with different initiatives in ArbitrumDAO and offers detailed insights into upcoming events. The hub is designed to boost user engagement and draw in new users using targeted strategies and by c"
+96,Oversight Committee,https://forum.arbitrum.foundation/t/oversight-committee/23669,"Oversight is a key function in organisations that’s largely missing in DAOs. As such, we pay big sums but delivery is often underwhelming.
+ArbitrumDAO seems to be organically evolving a model based on oversight committees when a grant surpasses a certain sum, with a recent example of Thrivecoin’s proposal for 3mn+ ARB and an oversight committee.
+I’m proposing we create some guidelines and principles for said committees to facilitate everyone’s task of setting up valuable initiatives for the DAO."
+97,# Thank ARB monthly report: March 2024,https://forum.arbitrum.foundation/t/thank-arb-monthly-report-march-2024/22957,"Hi, this is Ben West, I will be working with @DisruptionJoe and the team to deliver the Thank ARB program. Very excited to be supporting this visionary program! The Tally vote for Milestone 1(b) was completed last week and we are hitting the ground running on implementation as we speak. What follows is the monthly updated format you can expect from us moving forward over the next 6 months. This will be just one of the many ways we reach out and engage with and directly involve community members "
+98,[RFC] Enhancing Incentive Program Discoverability,https://forum.arbitrum.foundation/t/rfc-enhancing-incentive-program-discoverability/23295,"TLDR:
+
+Making sure protocols receiving growth incentives are easily discoverable, and ideally, making this discovery simple and accessible for users.
+Open Call: Apr 19, 2024 5:00PM UTC
+Ask of the reader: Respond with your thoughts on the potential solutions
+Main question: How do we ensure users can effectively and easily discover what is happening during the Incentive programs?
+
+Background
+As LTIPP and STIP.b move through Snapshot/Tally and into compliance, 404 DAO has had a couple conversations"
+99,"Individual Contribution Logs - Contribution verification, reputation building, improved funding decisions, SSI adoption and more!",https://forum.arbitrum.foundation/t/individual-contribution-logs-contribution-verification-reputation-building-improved-funding-decisions-ssi-adoption-and-more/23483,"contribution-logs-header1500×500 50.2 KB
+Individual contribution logs represent a record of an individuals contribution efforts.
+Some Web3 ecosystems use a process for verifying contribution efforts within their own grants process. This verification process can help with protecting the ecosystems treasury assets by checking that the funding is being used as intended.
+Contribution efforts could be grouped together by using a milestone approach or by using time intervals such as monthly. Alternati"
+100,Thank ARB: Arbitrum Ecosystem Goals,https://forum.arbitrum.foundation/t/thank-arb-arbitrum-ecosystem-goals/23447,"What can we do that would provide the most impact on Arbitrum? What are the top level objectives and north star metrics our grant funding should drive? Most grant programs won’t directly affect these top level metrics, but how do we know that they are precisely targeting a goal which has leverage on the north star metrics? How do we define success of a grant program in a way that is aligned with the needs of the ecosystem overall?
+On Tuesday the 23rd, Thank ARB hosted a session to align on these"
+101,BlockScience Report: Arbitrum Expert Service Provider Network Program Development,https://forum.arbitrum.foundation/t/blockscience-report-arbitrum-expert-service-provider-network-program-development/22687,"Hello ArbitrumDAO! 
+We have completed our research report, Arbitrum Expert Service Provider Network Program Development. This report was produced under a grant and in collaboration with Plurality Labs.
+The report offers:
+
+conceptual frameworks
+example practices
+practical next steps
+
+To constitute a program for Arbitrum DAO targeting funding for ongoing activities that pursue long-term goals. The purpose of the Expert Service Provider Network is to ensure Arbitrum DAO has access to expert service"
+102,[RFC] Custom developments for the Arbitrum Snapshot,https://forum.arbitrum.foundation/t/rfc-custom-developments-for-the-arbitrum-snapshot/23180,"We, as a DAO, use snapshot constantly. While we have an awesome on-chain governance through tally, Snapshot really helps us in getting sentiment checks on a lot of proposals. The problem we have had, over time, is the limitation of options available to fit our needs. Let’s add a few examples.
+
+elections of council/advisors in ltipp: users could select 5 members for council, 3 for advisors, some selected just one, some others all the available choices. While selecting only one is something that h"
+103,Gitcoin Grants Round 20 (GG20) on Arbitrum,https://forum.arbitrum.foundation/t/gitcoin-grants-round-20-gg20-on-arbitrum/23156,"As the Gitcoin Grants Program lead, I am thrilled to announce that Gitcoin Grants Round 20 (GG20) will be run on the Arbitrum network. This marks a step forward in our shared mission to support and accelerate the growth of the Ethereum ecosystem.
+
+
+
+grants.gitcoin.co
+
+
+
+Gitcoin Grants
+The Gitcoin Grants Program is a quarterly initiative run by Gitcoin that empowers communities to use web3 to fund their shared needs.
+
+
+
+
+
+GG20 is focused on supporting projects at various stages of development and"
+104,r/Cryptocurrency Takeover,https://forum.arbitrum.foundation/t/r-cryptocurrency-takeover/22352,"Abstract
+Proposal to takeover r/Cryptocurrency, starting with advertising, and moving on to aquire MOONs, the subreddit native governance token on Nova - allowing
+favorable ruling on r/Cryptocurrency for Arbitrum.
+Motivation
+r/Cryptocurrency is the biggest crypto community since 2013, this proposal allow maintaining Arbitrum dominance by sponsoring the subreddit, and implement Arbitrum into the community (Ads, discussion, favorable governance).
+Moons are the biggest token on Nova, this operation"
+105,Event Horizon: Call for creative uses of delegation to boost participation,https://forum.arbitrum.foundation/t/event-horizon-call-for-creative-uses-of-delegation-to-boost-participation/21235,"The Problem
+After attending several Arbitrum Working Group and Open Governance calls for the past several weeks we wanted to flag a concern that has come up various times. Despite the size and activity level of the Arbitrum ecosystem, the DAO itself has a small number of active participants. As of Feb 9, the last 10 Arbitrum Snapshot proposals saw an average 27,598 wallets participate. This is in light of the 921,457 ARB holders (895,477 on L2, 25,980 on L1). This results in an average participa"
+106,Open Source Contributors - A promising alternative to idea based funding,https://forum.arbitrum.foundation/t/open-source-contributors-a-promising-alternative-to-idea-based-funding/22628,"proposal-header1500×500 51.7 KB
+We’ve recently finished a proposal outlining the opportunity to experiment with an open source contributor funding process. This suggested funding process could become a highly effective and scalable approach for Web3 ecosystems to more consistently generate impact.
+The opportunity to experiment with a contributor funding approach is better highlighted by understanding some of the problems that exist with idea based funding:
+
+For contributors, the proposal submiss"
+107,About the Governance category,https://forum.arbitrum.foundation/t/about-the-governance-category/18,"Welcome to the Governance Forum!
+Dedicated to discussions and exchange of ideas related to governance.
+Please read the following guidelines carefully to ensure a productive and respectful community.
+Stay on topic: This forum is dedicated to discussions related to governance only. Please refrain from discussing unrelated topics. Off-topic or irrelevant posts may be removed by the moderators.
+Be respectful: Respect other forum members, their opinions, and their rights to express themselves. Do not"
+108,20 August 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/20-august-2024-roundup-of-active-and-upcoming-votes/26431,"Onchain Proposals 
+1. Entropy Advisors: Exclusively Working With Arbitrum DAO  (voting ends on Friday, Aug 23)
+
+Entropy Advisors is requesting 6M ARB to work exclusively with the ArbitrumDAO for one year. This consists of US$2.47M in ARB for an operating budget with a ~10% margin/contingency, and a potential bonus of 1.5M ARB maximum which the DAO can decide to distribute near the end of the 1 year mark.
+
+The receiving address for the 6M ARB will be a Foundation-controlled multi-sig SAFE address"
+109,23 July 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/23-july-2024-roundup-of-active-and-upcoming-votes/25865,"UPDATED ON 25 JULY
+New Temperature Check created 
+Change Arbitrum Expansion Program to allow deployments of new Orbit chains on any blockchain
+
+
+The Arbitrum Expansion Program (AEP) allows projects to fork the Arbitrum codebase, modify it to their business needs, and deploy it on any chain that derives security from Ethereum. In return, the new Orbit chain is expected to share 10% of their chain’s profit back to the wider Arbitrum ecosystem.
+
+
+One restriction of the AEP is that a new Orbit chain"
+110,7 August 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/7-august-2024-roundup-of-active-and-upcoming-votes/26123,"Onchain Proposals 
+1. ArbOS 31 “Bianca” (Stylus, RIP-7212 Support, Nova Fee Router)  (live for voting!)
+
+This AIP proposes the activation of ArbOS 31 on Arbitrum One and Arbitrum Nova. This ArbOS upgrade brings a number of improvements, including:
+
+Activating Arbitrum Stylus to enable developers to build the next generation of Rust or C++ applications on the EVM.
+New precompile for verifying the secp256r1 elliptical curve (as part of RIP-7212)
+Change to fee collection on Arbitrum Nova, making it"
+111,24 September 2024 - Security Council Elections & Roundup of Active/Upcoming Votes,https://forum.arbitrum.foundation/t/24-september-2024-security-council-elections-roundup-of-active-upcoming-votes/26921,"Security Council Election Reminder 
+1. Security Council Election Registrations Nominee Selection Phase
+
+39 candidates have successfully created profiles and are currently in the Nominee Selection Phase.
+Candidates that receive 8.59M votes (0.2% of all votable supply) will advance to the compliance phase with the Arbitrum Foundation, and the next phase of elections will commence post the compliance period.
+Check out the resources below to find out more:
+
+Security Council Elections 101 Forum Post "
+112,10 September 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/10-september-2024-roundup-of-active-and-upcoming-votes/26728,"Onchain Proposals 
+1. Delegate to Voter Enfranchisement Pool — Event Horizon  (voting ends on Sept 13)
+
+The EventHorizon team is proposing that the DAO delegates (not grant) 7,000,000 ARB to a public access-voter block subject to a non-optimistic 1-year renewal.
+Rather than the block voting based on the decision of one individual, the public access-voter block votes with the collective cognition of hundreds of individual voter pass holders. It provides a clear and designated voice for smaller, c"
+113,13 August 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/13-august-2024-roundup-of-active-and-upcoming-votes/26340,"Onchain Proposals 
+1. ArbOS 31 “Bianca” (Stylus, RIP-7212 Support, Nova Fee Router)  (voting ends on Thursday, Aug 15)
+
+This AIP proposes the activation of ArbOS 31 on Arbitrum One and Arbitrum Nova. This ArbOS upgrade brings a number of improvements, including:
+
+Activating Arbitrum Stylus to enable developers to build the next generation of Rust or C++ applications on the EVM.
+New precompile for verifying the secp256r1 elliptical curve (as part of RIP-7212)
+Change to fee collection on Arbitrum "
+114,30 July 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/30-july-2024-roundup-of-active-and-upcoming-votes/25980,"Onchain Proposals 
+1. ArbOS 31 “Bianca” (Stylus, RIP-7212 Support, Nova Fee Router) (voting starts on Thursday, Aug 1)
+
+
+This AIP proposes the activation of ArbOS 31 on Arbitrum One and Arbitrum Nova. This ArbOS upgrade brings a number of improvements, including:
+
+Activating Arbitrum Stylus to enable developers to build the next generation of Rust or C++ applications on the EVM.
+New precompile for verifying the secp256r1 elliptical curve (as part of RIP-7212)
+Change to fee collection on Arbitrum"
+115,1 October 2024 - Security Council Elections & Roundup of Active/Upcoming Votes,https://forum.arbitrum.foundation/t/1-october-2024-security-council-elections-roundup-of-active-upcoming-votes/26986,"Security Council Election Reminder 
+1. Security Council Election Registrations Compliance Phase
+
+Out of the 39 candidates from the Nominee Selection Phase, 13 nominees have received at at least 8.59M votes (0.2% of all votable supply) and have advanced to the compliance phase with the Arbitrum Foundation.
+
+
+
+The compliance phase runs for 2 weeks from Sept 29 - Oct 13. This phase ensures that nominees comply with the legal requirements, service agreements, and additional rules dictated by the Con"
+116,27 August 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/27-august-2024-roundup-of-active-and-upcoming-votes/26515,"Onchain Proposals 
+1. Funds to bootstrap the first BoLD validator (voting ends on Sept 6)
+
+The Arbitrum Foundation is requesting for 5,134 ETH from the L2 Treasury Timelock (ETH treasury) to run a BoLD validator and fulfill the role of being the first honest and active proposer. This proposal is contingent on the proposal <AIP to upgrade the DAO-governed chains to use BoLD> being approved by the ArbitrumDAO down the line, and all funds will be returned to the ArbitrumDAO within 30 days of the BO"
+117,17 September 2024 - Start of Security Council Elections(!) & Roundup of Active/Upcoming Votes,https://forum.arbitrum.foundation/t/17-september-2024-start-of-security-council-elections-roundup-of-active-upcoming-votes/26822,"Security Council Election Reminder 
+
+Security Council Election Registrations are open (till Sept 22)
+
+
+Potential candidates have until September 22 to register for the Security Council elections (September 2024 cohort) on Tally
+The security council is a committee of 12 members who are signers of a multi-sig wallet, tasked with executing Emergency and Non-Emergency Actions to uphold the ArbitrumDAO’s Constitution
+Check out the resources below to find out more:
+
+Security Council Elections 101 Foru"
+118,15 October 2024 - Security Council Elections & Roundup of Active/Upcoming Votes,https://forum.arbitrum.foundation/t/15-october-2024-security-council-elections-roundup-of-active-upcoming-votes/27172,"Security Council Election Reminder 
+1. Security Council Member Election Phase
+The Member Election phase (i.e. final round of voting) commenced on October 13 and will run for 21 days (until November 3)… Cast your vote(s) here  Member Election | Arbitrum Security Council Election
+ The 6 candidates with the most votes will join the Arbitrum Security Council
+ Delegates are encouraged to cast their vote(s) in the next 5 days, as voting power will linearly decay from October 20
+ Voting power can be sp"
+119,8 October 2024 - Security Council Elections & Roundup of Active/Upcoming Votes,https://forum.arbitrum.foundation/t/8-october-2024-security-council-elections-roundup-of-active-upcoming-votes/27073,"Security Council Election Reminder 
+1. Security Council Election Registrations Compliance Phase
+
+
+Of the 39 candidates, 13 nominees  have received at at least 8.59M votes (0.2% of all votable supply) and have advanced to the compliance phase with the Arbitrum Foundation.
+
+
+The compliance phase runs for 2 weeks from Sept 29 - Oct 13. This ensures that nominees comply with the legal requirements, service agreements, and additional rules dictated by the Constitution.
+
+
+Note that for a candidate to "
+120,3 September 2024 - Roundup of Active and Upcoming Votes,https://forum.arbitrum.foundation/t/3-september-2024-roundup-of-active-and-upcoming-votes/26615,"Onchain Proposals 
+1. Funds to bootstrap the first BoLD validator  (voting ends on Sept 6)
+
+The Arbitrum Foundation is requesting for 5,134 ETH from the L2 Treasury Timelock (ETH treasury) to run a BoLD validator and fulfill the role of being the first honest and active proposer. This proposal is contingent on the proposal <AIP to upgrade the DAO-governed chains to use BoLD> being approved by the ArbitrumDAO down the line, and all funds will be returned to the ArbitrumDAO within 30 days of the B"
+121,(Re)delegation Week - Next Steps for Delegators,https://forum.arbitrum.foundation/t/re-delegation-week-next-steps-for-delegators/26091,"Thank you to the delegates who registered for (Re)delegation Week and presented on the AMA Governance Calls.
+Now that we have heard from the delegates, it is your time, as a (potential) (re)delegator, to delegate your voting power to a delegate who best aligns with your values and vision for the ArbitrumDAO.
+Who are the delegates?
+Over the 4 governance calls during (Re)delegation Week, delegates presented their values, their vision for ArbitrumDAO, as well as why they would make good delegates. "
+122,Who are Delegates and Delegators?,https://forum.arbitrum.foundation/t/who-are-delegates-and-delegators/25263,"Check out this forum post to learn more about (Re)delegation Week…
+What is a delegate?
+
+A delegate is a member of the ArbitrumDAO community who represents the voice of other community members in governance and is elected by token holders who choose to grant their voting power to them (this could include delegating ones voting power to oneself)
+Delegates are required to follow the community values as defined by the Constitution of the ArbitrumDAO, and must act in the best interest of the token ho"
+123,(Re)delegation Week Kick-Off and Agenda,https://forum.arbitrum.foundation/t/re-delegation-week-kick-off-and-agenda/25663,"(Re)delegation Week has officially commenced and will run from today (July 17) until July 23.
+Thank you to the 57 delegates who registered.
+Agenda
+Registered delegates will have 4 minutes each to pitch their vision and values for the ArbitrumDAO, as well as why they would make a good delegate, in the following AMA governance calls:
+July 17, 15:00-16:00 UTC
+
+@Djinn | Djinn Delegate Profile
+@JoJo | JoJoTheCow Delegate Profile
+@Curia | Curia Delegate Profile
+@TreasureDAO | Treasure Delegate Profile"
+124,What is (Re)delegation Week? (+Application thread),https://forum.arbitrum.foundation/t/what-is-re-delegation-week-application-thread/25262,"What is (Re)delegation Week?
+(Re)delegation Week will occur between July 17, 2024 and July 23, 2024.
+It will serve as a period to strengthen active and decentralized delegation within ArbitrumDAO - by bringing awareness to the importance of participation, promoting diverse voices (through multiple AMA governance calls), and encouraging community members to (re)assess and (re)assign their voting power to representatives who best align with their values and vision for the DAO.
+Check out this forum"
+125,Bi-weekly grants & governance workshop (08.15.2023),https://forum.arbitrum.foundation/t/bi-weekly-grants-governance-workshop-08-15-2023/15875,"Reminder - Tuesday 8.15 is the bi-weekly Grants & Governance workshop at 2pm UTC
+These bi-weekly facilitated sessions are open to all delegates and teams/individuals contributing to the Arbitrum ecosystem. Hosted workshops will use design thinking to understand the problems we are facing, align our conversations, and find better solutions.
+If you have topics that need to be discussed, pop them in the comments below or add them as we get started.
+Note, these meetings are less about information sh"
+126,#4 Arbitrum Open Governance Call (26.07.2023),https://forum.arbitrum.foundation/t/4-arbitrum-open-governance-call-26-07-2023/15559,"Hey,
+a friendly reminder, that we’re having a fourth Open Governance Call this Wednesday, please mark your calendars (or you can subscribe to the public Arbitrum Governance calendar  and always be up to date with our calls).
+The call will take place again on Google Meet: meet.google.com/ouo-uskg-niq  on Wednesday, 26.07.2023 at 4pm UTC (same as last time).
+I propose the following agenda:
+
+Discussion on recent proposals
+** Reflection and discussion on Camelot’s proposal
+** Questbook’s Grant Frame"
+127,Building better Grants Programs: A handbook,https://forum.arbitrum.foundation/t/building-better-grants-programs-a-handbook/14114,"Enhancing Grant Programs for Decentralized Projects: Challenges and Solutions
+
+Introduction
+Grant programs play a pivotal role in the success of various projects, particularly decentralized ones. They act as a lifeline for public infrastructure, attract talented builders, and cultivate an ecosystem of skilled participants. Despite their importance, executing grant programs effectively is notoriously challenging due to misalignments between stakeholders, cost underestimations, and other issues. I"
+128,Long-term plans for Gas Price Floor,https://forum.arbitrum.foundation/t/long-term-plans-for-gas-price-floor/15592,"The Arbitrum One and Nova chains currently enforce a floor gas price (currently 0.1 gwei on Arbitrum One and 0.01 gwei on Nova), which is described in the developer documentation. However, that guide doesn’t indicate WHY there is a gas floor price enforced at all.
+I’ve heard it mentioned (and got one response in Discord confirming) it’s to prevent certain attack vectors/spamming/DoSing of the chain, but nowhere is detailed if that’s a temporary thing, or a permanent thing.
+I’m posting this as a "
+129,Peer to peer delegate endorsements onchain,https://forum.arbitrum.foundation/t/peer-to-peer-delegate-endorsements-onchain/19567,"We’ve launched a new feature enabling delegates with significant voting power to endorse others who, despite their valuable contributions, hold less voting power. This aims to address the issue of voting power concentration among a limited number of delegates.
+If you are a delegate with large VP, please consider endorsing a few less visible delegates. All the endorsements are stored onchain. They are attestations utilizing Ethereum Attestation Service.
+You can endorse by finding a delegate here "
+130,Public Consultation re. 'Consolidate Security Proposals into an RFP Process',https://forum.arbitrum.foundation/t/public-consultation-re-consolidate-security-proposals-into-an-rfp-process/19478,"Hello everyone,
+Immutablelawyer (Joseph) here from [axis advisory]. By way of context, I was recently leading a focus group together with @dk3 so as to spearhead a proposal aimed at creating a ‘Procurement Framework’ for security-oriented service providers in the ArbitrumDAO. Below, please find our public call for your participation in a public consultation phase so as to solicit input on what you, the ArbitrumDAO community member, think of how the Procurement Framework should be structured.
+IMP"
+131,For proposals involving budget,https://forum.arbitrum.foundation/t/for-proposals-involving-budget/15457,"Is it possible to have a function like:
+a.) For those proposals to transact with a new counter-party:
+b) If this proposal is not passed:
+then pause the creator’s voting weight say for 3 months? A broad anti-sybil method which should make such proposals designed more carefully and not consuming the consensus of voters (again and again)?"
+132,Delegation Week for Arbitrum Holders,https://forum.arbitrum.foundation/t/delegation-week-for-arbitrum-holders/14617,"Hi Arbitrum DAO!
+Raf from Tally here. I wanted to let you know about Delegation Week, which starts today.
+Delegation Week is an ecosystem-wide event for DAO governance engagement. There’s a lot going on, including a Arbitrum DAO twitter space. The goal of the week is to build feedback loops between delegates and tokenholders. Delegates can share their platforms and their voting histories. Tokenholders can check that they’re still aligned with their delegate.
+This week, eligible ARB holders get o"
+133,RFC - Introducing a Robust Framework for Arbitrum Service Providers [Marketing & Growth],https://forum.arbitrum.foundation/t/rfc-introducing-a-robust-framework-for-arbitrum-service-providers-marketing-growth/19749,"Hello, Arbitrum community! In light of the ongoing discussion in the Bankless DAO proposal and the post created by Jengajojo on establishing a framework for service providers, the Atoma team wishes to contribute our insights. We’ve crafted a comprehensive framework to address such scenarios. Our goal is to stimulate the discussion around this subject, gather community feedback, and lay the foundation for a robust Arbitrum framework for marketing & growth service providers.
+If the community sees "
+134,#8 Arbitrum Open Governance Call (22.11.2023),https://forum.arbitrum.foundation/t/8-arbitrum-open-governance-call-22-11-2023/19632,"Hey,
+I’d like to remind all delegates that the eigth Open Governance Call is taking place this coming Wednesday on 22nd of November. Please mark your calendars (or you can subscribe to the public Arbitrum Governance calendar  and always be up to date with our calls)
+We’ll keep the agenda a bit flexible as before and will adapt to whatever is brought forward by the participants, but some proposed topics are:
+
+Devconnect & Arbitrum Days Insights
+L2DAYS Governance Workshop Review
+Foundation Updates"
+135,The Rise of Real World Assets in the Tokenized Era,https://forum.arbitrum.foundation/t/the-rise-of-real-world-assets-in-the-tokenized-era/20150,"Hey RWA Fam,
+I’ve been immersing myself in the dynamic world of Real World Assets (RWA)  and am excited to discuss the innovative opportunities it presents, especially in the realm of fractional ownership and tokenization.
+The concept of fractional ownership in RWAs has opened up new horizons for investors and enthusiasts  alike. It’s fascinating to see how we can now have a stake in high-value assets through fractional shares, made possible by the amazing approach of tokenization. This shift is"
+136,Is an anon mode helpful for Arbitrum?,https://forum.arbitrum.foundation/t/is-an-anon-mode-helpful-for-arbitrum/20154,"I have been researching how DAOs make decisions and I am curious about anonymity. Since this feature is possible on discourse and is easy to enable:
+
+Have we considered enabling it here
+If yes, why, if not, why not?
+
+My thesis is that optional anonymity would allow users to communicate candidly without needing to create a throwaway account, and would love your feedback on this."
+137,About the Arbitrum Research & Development Committee (ARDC) category,https://forum.arbitrum.foundation/t/about-the-arbitrum-research-development-committee-ardc-category/23430,"The ARDC’s role in reviewing and enhancing governance proposals, conducting code reviews for security, providing quantitative analysis for economic risk, and fostering active delegate engagement will contribute significantly to the growth and success of the Arbitrum ecosystem. It will provide valuable tools and reports for proposal authors, helping them refine their ideas and make better-informed decisions.
+This category will be used for the Research member, Risk member, Security member, and the"
+138,[ARDC] Final Report,https://forum.arbitrum.foundation/t/ardc-final-report/27050,"TL;DR
+
+The ARDC finished its 6-month term from April 1st to October 1st, 2024.
+During its term, it published 42 deliverables in the forum.
+The ARDC’s multisig was funded with 1,761,000 ARB, of which 1,753,466.42 ARB was used.
+The remaining 7,533.58 ARB are to be returned to the treasury.
+We will be hosting a call on Monday 7th of October at 14:00 UTC to discuss the conclusion of ARDC and answer any questions you might have.
+
+Intro
+The ‘Arbitrum Research and Development Collective (ARDC)’ was est"
+139,ARDC Deliverable -- List of Incentive Programs,https://forum.arbitrum.foundation/t/ardc-deliverable-list-of-incentive-programs/27136,"As the last task of the ARDC v1, Delphi sought to do some analysis around incentive programs on other networks. However, given the time constraints, we were pursue this properly. Below we are publishing a simple list of incentive programs run by other L2s and some L1s.
+Incentive Programs Preliminary Research (Delphi ARDC)
+Starknet
+
+DeFi Spring - 90M STRK targeting DeFi users, through Dec 31 2024
+
+Optimism
+
+OP Summer - 600K OP in summer incentives growing the superchain with Base, Zora, OP mainne"
+140,[ARDC] DAO Advocate Communication Thread,https://forum.arbitrum.foundation/t/ardc-dao-advocate-communication-thread/22865,"Intro
+Following the success of the proposal to establish the Arbitrum Research and Development Collective (ARDC), elections were held to determine the members of the collective. In the context of those elections, Ant Federation and L2BEAT joined forces and together we were elected in the role of the DAO Advocate. The mandate of the DAO Advocate is to represent the DAO and direct the ARDC’s efforts. It essentially functions as the bridge between the Arbitrum DAO and the ARDC.
+As the DAO Advocate,"
+141,ARDC Research Deliverables,https://forum.arbitrum.foundation/t/ardc-research-deliverables/23438,"Short-form Case Study – GMX
+As requested by the DAO advocate for the ARDC, L2BEAT, Blockworks Research has begun conducting case studies on STIP recipients. Since perpetual futures-related projects, as categorized in the dashboard created by OpenBlock Labs, accounted for 27.45M ARB (~39% of the total STIP incentives), the first case study is based on GMX, the project receiving the largest STIP allocation at 12M ARB. This case study focuses on the grantee’s application and reporting structure, in"
+142,Arbitrum daoURI Proposal Security Review,https://forum.arbitrum.foundation/t/arbitrum-daouri-proposal-security-review/26938,"OpenZeppelin, the Security Member of the ARDC, reviewed the Arbitrum daoURI Proposal and its specifications. If enacted, the proposal will publish a daoURI on the Arbitrum One network, creating a single source of truth for all the information about the DAO. No existing contracts will be modified and there will be no transfers of funds from the treasury.
+Overview
+DAOs often have a large and growing amount of information surrounding them. This information is constantly changing as a result of the "
+143,Treasury Backed Vaults Risk Analysis,https://forum.arbitrum.foundation/t/treasury-backed-vaults-risk-analysis/26192,"Treasury Backed Vaults Risk Analysis1920×960 40.5 KB
+Introduction
+On Jun 3, 2024, cupojoseph proposed a pilot stage for funding R&D for the implementation and execution of operating a treasury-backed vault (TBV). He suggests that leveraging a TBV and issuing a stablecoin against ARB (and other treasury assets) in the vault could be a more effective funding mechanism for grants and other initiatives–noting leveraging ARB to issue stablecoins could relieve ARB selling pressure.
+After back and fort"
+144,Response to Arbitrum Staking Proposal (ARDC Research Deliverable),https://forum.arbitrum.foundation/t/response-to-arbitrum-staking-proposal-ardc-research-deliverable/26048,"This memo is a response to Frisson’s proposal to introduce an ARB staking program as a means of defeating voter apathy and enabling the token’s value on the application layer. We believe the proposal is very well reasoned, complete with a specification for how this would be implemented and a concrete estimate of how much this is going to cost. But there are details that need to be figured out that pertain to the sustainability of such an initiative.
+Core Motivation: Arbitrum is a Top Protocol, B"
+145,Timeboost Risk Analysis,https://forum.arbitrum.foundation/t/timeboost-risk-analysis/26789,"The Timeboost proposal aims to change how transactions are ordered on Arbitrum One and Arbitrum Nova by introducing an express lane that immediately sequences (that is, without delay) transactions from the express lane auction winner for that round, while normal transactions face a proposed 200ms delay. Chaos Labs supports the proposal, viewing it as a safe upgrade, but we do highlight several minor economic risks.
+Despite these minor concerns, Chaos Labs’ find no major blockers to the proposal’"
+146,Timeboost Security Analysis,https://forum.arbitrum.foundation/t/timeboost-security-analysis/26832,"OpenZeppelin, the Security Member of the ARDC, reviewed the proposal to adopt Timeboost for security and implementation risks. There are no issues with the proposed design at this time.
+Summary
+Financial markets reward first actors. Because Arbitrum’s Sequencer is “first come, first serve” and fully open, anyone that sees an opportunity to make a profit can send a transaction to realize the gain. The trouble is that a lot of these opportunities become visible to the entire market at the same tim"
+147,Arbitrum L2 Time Lock Delay Proposal Security Review,https://forum.arbitrum.foundation/t/arbitrum-l2-time-lock-delay-proposal-security-review/26837,"OpenZeppelin, the Security Member of the ARDC, reviewed the Arbitrum L2 Time Lock Delay Proposal and its specifications.
+Summary
+If enacted, the proposal will increase the delay of constitutional proposals from 3 days to 8 days. The change only involves a modification of an existing configuration parameter and does not introduce any new functionality.
+Overview
+The Arbitrum DAO has a governance process whereby the community can vote on proposals fully on-chain. Two distinct kinds of proposals can"
+148,"Transaction Ordering Policies & Value Accrual in L2s: Timeboost, OP PGA, Fastlane & OEV Network [ARDC Research Deliverables]",https://forum.arbitrum.foundation/t/transaction-ordering-policies-value-accrual-in-l2s-timeboost-op-pga-fastlane-oev-network-ardc-research-deliverables/26771,"There has been an increasing focus on value accrual within blockchain networks. We have previously worked on memos around an ARB staking program, and sustainable paths to income generation to support ARB staking.
+In this memo, we will explore Arbitrum’s newly proposed transaction ordering policy – Timeboost. We will also compare it with other mechanisms like Optimism’s Priority Gas Auction (PGA), FastLane, and OEV Network proposed by API3. We will examine how these transaction ordering policies "
+149,Arbitrum Governor V2 Review,https://forum.arbitrum.foundation/t/arbitrum-governor-v2-review/26118,"Summary
+A recent proposal funded the development of new governor contracts with the aim to enhance the user experience when interacting with the Arbitrum ecosystem on Tally. OpenZeppelin was asked by the ARDC to review the contributions from ScopeLift as well as their deployment scripts that create the proposal and enact the changes on-chain.
+Timeline:   2024-07-08 – 2024-07-19
+Total Issues:   9 (8 resolved)
+Low Severity Issues:   2 (2 resolved)
+Notes & Additional Information:   6 (6 resolved)
+C"
+150,Arbitrum Governance Upgrade Rollout & Timeline,https://forum.arbitrum.foundation/t/arbitrum-governance-upgrade-rollout-timeline/26462,"Edit Notice: This Rollout Plan has been updated on Sept 5th, 2024 to remove the need for a Proposal Moratorium based on the suggestion from @offchainlabs. We updated the timeline accordingly.
+Abstract
+OpenZeppelin, as the Security Member of the ARDC, recommends the following timeline and plan for the Rollout of the Arbitrum Governance Upgrade, based on the recommendations of ScopeLift, to prevent new proposal submissions during key stages of the Upgrade.
+We propose a detailed timeline of the ant"
+151,Follow Up -- DAO Income Sources and The Path to Staking,https://forum.arbitrum.foundation/t/follow-up-dao-income-sources-and-the-path-to-staking/26447,"This memo is a follow up to, both, our expense analysis of the Arbitrum DAO and our response to the ARB staking proposal. In this, we dissect the income side of equation for the Arbitrum DAO and link it to the staking program in a bid to find a sustainable yet appealing path to staking.
+Arbitrum Income (ARDC)
+The Arbitrum DAO currently has three income sources. Two sources actively earn fees (Sequencer, Orbit), while one is still in production and pending governance approval (Timeboost).
+This pa"
+152,RARI Multichain Governance Proposal Security Review,https://forum.arbitrum.foundation/t/rari-multichain-governance-proposal-security-review/26648,"Summary
+OpenZeppelin, the Security Member of the ARDC, reviewed the Rari multichain governance proposal and its specifications. If enacted, the proposal execution will register a custom gateway for a new RARI L2 token contract that will migrate the RARI DAO from the Ethereum mainnet to the Arbitrum ecosystem. The new token contract has been fully audited and deployed to the Arbitrum Sepolia testnet and all contracts have been manually tested.
+Overview
+The $RARI token that is used to govern the R"
+153,Security analysis of EIP-4824 adoption by Arbitrum DAO,https://forum.arbitrum.foundation/t/security-analysis-of-eip-4824-adoption-by-arbitrum-dao/26539,"DAOstar, as well as multiple delegates that voted on the recent Snapshot of this proposal is requesting the ARDC to conduct a security evaluation of a potential EIP-4824 adoption by the Arbitrum DAO.
+There are two possible adoption pathways that will be presented to the DAO when the proposal is reposted to Snapshot: (1) using ENS txt records in arbitrumfoundation.eth, and (2) deploying a smart contract to store daoURI. These pathways are detailed in this new forum post. The new proposal also inc"
+154,Security Analysis of Arbitrum Staking Proposal (ARDC Security Deliverable),https://forum.arbitrum.foundation/t/security-analysis-of-arbitrum-staking-proposal-ardc-security-deliverable/26197,"Abstract
+OpenZeppelin, the Security Member of the ARDC, reviewed the proposed changes of ARB Staking: Unlock ARB Utility and Align Governance in advance of the snapshot vote. This proposal aims to increase participation and delegation in the ARB ecosystem, by implementing liquid staked ARB.
+Arbitrum DAO voter participation has been steadily declining post launch. With the recent attempted/successful attacks on other large DAO’s (Compound, etc.), ARB governance is currently at risk of incurring a"
+155,[Request for Support – ARDC Research Member] Comparison of MEV Solutions (Timeboost/MEV-Boost/FastLane),https://forum.arbitrum.foundation/t/request-for-support-ardc-research-member-comparison-of-mev-solutions-timeboost-mev-boost-fastlane/26117,"Research Report Covering Timeboost
+Entropy Advisors is requesting one of the Research Members of the ARDC to create a comprehensive analysis comparing Timeboost, MEV-Boost, and FastLane. More specifically, the deliverable would ideally comprise, at a minimum, an easy-to-understand overview of how Timeboost functions and what it accomplishes, how the solution differs from MEV-Boost and FastLane, any possible improvement areas that can be identified, especially based on the two other solutions’ me"
+156,ETH Staking Options and Risks for the DAO,https://forum.arbitrum.foundation/t/eth-staking-options-and-risks-for-the-dao/25762,"Summary
+For consideration by Abitrum DAO’s delegates and voters, OpenZeppelin presents an overview of staking options, the risks they each have, and possible ways the DAO could stake its ETH reserves.  If the DAO decides to stake, we recommend gradual investment into a regularly-rebalanced, diversified portfolio of LSTs actively managed in a DAO Treasury Management Vault to minimize trust and mitigate centralization while enabling adaptability to changing risk tolerance and market conditions.
+St"
+157,Arbitrum DAO Treasury Research (ARDC Research Deliverables),https://forum.arbitrum.foundation/t/arbitrum-dao-treasury-research-ardc-research-deliverables/25427,"As a part of the ARDC, Delphi Creative is publishing a research memo on the Arbitrum DAO treasury. This report aims to quantify the DAO’s expenditure thus far and estimate its impact on ARB secondary markets.
+We believe this can serve as the starting point towards a concerted effort for DAO budget research as requested by Entropy.
+Key Takeaways:
+
+
+Arbitrum has spent 433M ARB, roughly 12.3% of its initial treasury allocation.
+
+
+DAO spending is increasing substantially, but is still dwarfed by ins"
+158,AIP: ArbOS 31 Proposal Review,https://forum.arbitrum.foundation/t/aip-arbos-31-proposal-review/26000,"AIP: ArbOS 31 Proposal Review
+Authors: @red-swan, @jbass-oz
+Summary
+OpenZeppelin, the Security Member of the ARDC, reviewed the AIP: ArbOS 31 “Bianca” proposal and its execution instructions. If enacted, the proposal execution will activate Stylus, Alternate Signature Verification, and Automatic Treasury Deposits using seven on-chain governance action contracts (GACs) that alter the ecosystem in the ways described in the proposal description. The new, on-chain contracts match their audited versi"
+159,[Request for Support - Chaos Labs] Backtesting and Suggestions For Min Base Fee,https://forum.arbitrum.foundation/t/request-for-support-chaos-labs-backtesting-and-suggestions-for-min-base-fee/24797,"Increasing the Minimum Base Fee in the Arbitrum Protocol
+In our recent analysis of the current fee landscape within the Arbitrum network and its competitors, we identified that the DAO might benefit from an adjustment in the minimum base fee of the protocol. This adjustment has the potential to significantly increase revenue, potentially bringing in hundreds of additional ETH per month to the DAO’s treasury.
+We propose forming a working group dedicated to examining and creating this proposal. Sp"
+160,Event Horizon Franchiser Contract Audit,https://forum.arbitrum.foundation/t/event-horizon-franchiser-contract-audit/25738,"Audit Summary
+Type:   Governance
+Timeline:   From 2024-07-01 To 2024-07-05
+Languages:   Solidity
+Total Issues:   6 (1 resolved)
+Notes & Additional Information:   6 (1 resolved)
+Scope
+We audited the HVAX/arbfranchiser repository at commit 8caba3d.
+In scope were the following files:
+src
+├── FranchiserFactory.sol
+├── Franchiser.sol
+├── FranchiserLens.sol
+├── base
+│   └── FranchiserImmutableState.sol
+└── interfaces
+    ├── IVotingToken.sol
+    ├── IFranchiserLens.sol
+    ├── IFranchiserImmutableStat"
+161,Event Horizon Arbitrum Franchiser Audit,https://forum.arbitrum.foundation/t/event-horizon-arbitrum-franchiser-audit/25702,"Event Horizon Arbitrum Franchiser Audit
+July 18, 2024
+Summary
+Type:   Governance
+Timeline:   From 2024-07-01 To 2024-07-05
+Languages:   Solidity
+Total Issues:   6 (1 resolved)
+Notes & Additional Information:   6 (1 resolved)
+Scope
+We audited the HVAX/arbfranchiser repository at commit 8caba3d.
+In scope were the following files:
+src
+├── FranchiserFactory.sol
+├── Franchiser.sol
+├── FranchiserLens.sol
+├── base
+│   └── FranchiserImmutableState.sol
+└── interfaces
+    ├── IVotingToken.sol
+    ├── IFra"
+162,Exploring zkTLS Opportunities,https://forum.arbitrum.foundation/t/exploring-zktls-opportunities/25509,"Hey Devs,
+Exciting news! With zk-TLS integrated into Arbitrum via the Reclaim protocol, there are some amazing opportunities unfolding:
+
+Enhanced Privacy for Financial Transactions: Imagine securing sensitive transaction details on Arbitrum with zk-TLS. It ensures that financial data remains encrypted and private, compliant with strict privacy regulations.
+Secure, Confidential Communication Channels: You can establish highly secure communication channels between servers and clients. This is perf"
+163,STIP Analysis (ARDC Risk Deliverables) | Insights & Key Findings,https://forum.arbitrum.foundation/t/stip-analysis-ardc-risk-deliverables-insights-key-findings/25515,"ARDC STIP Risk Analysis - Insights & Key Findings1920×960 39.2 KB
+Introduction
+Over the past 10 weeks, Chaos Labs has performed a deep analysis of three protocols’ STIP programs from a risk and efficiency point of view. This post focuses on aggregating the learnings from these case studies into a consolidated review to help delegates and protocols improve their decision-making in the future.
+The post starts with a risk analysis of the program on these protocols. It then examines the efficiency o"
+164,Concerns Regarding Possible Misconduct by Synapse with Respect to the Usage of ARB Incentives Allocated Through the STIP,https://forum.arbitrum.foundation/t/concerns-regarding-possible-misconduct-by-synapse-with-respect-to-the-usage-of-arb-incentives-allocated-through-the-stip/23775,"As one of the Research Members of the ARDC, Blockworks Research has been gathering data and conducting an analysis of the STIP process, as well as recipients’ performance and utilized mechanisms. During this analysis, concerns have arisen regarding the usage of ARB incentives by Synapse.
+As part of STIP Round 2, Synapse received an incentive allocation of 2M ARB, which was streamed to the project’s dedicated Funding Address (0xd31d3a2c19123b8ff48560c20a08ffb16ad62dfe) between January and March 2"
+165,STIP Analysis (ARDC Risk Deliverables) | Case Study #3: Pendle Finance,https://forum.arbitrum.foundation/t/stip-analysis-ardc-risk-deliverables-case-study-3-pendle-finance/25254,"Chaos Labs STIP Risk Analysis | Case Study #3: Pendle Finance
+Case Study #3: Pendle Finance1920×960 40.7 KB
+Preamble
+As part of our recent election as the Risk Member on the Arbitrum Research & Development Committee (ARDC), Chaos Labs is pleased to share a blog post detailing our third case study for the ARDC: Pendle Finance. This is the third and final case study of a three-part series that entails an in-depth analysis of the risk and efficiency of the Arbitrum STIP on three major protocols, th"
+166,AIP BOLD Security Analysis,https://forum.arbitrum.foundation/t/aip-bold-security-analysis/24938,"Abstract
+Authors: @red-swan @michael-oz
+BOLD is a new dispute mechanism for Arbitrum which is permissionless and mitigates delay attacks. OpenZeppelin was asked by the ARDC to review the AIP. We assume that readers have read the AIP or at least the gentle introduction to which the AIP refers. Our analysis focuses on the parameters of BOLD involving the distribution of confiscated funds and their implications for the future.
+Impressions
+Overall we were impressed with the amount of work that went "
+167,Non emergency actions to facilitate key rotation of Security Council - October 2024,https://forum.arbitrum.foundation/t/non-emergency-actions-to-facilitate-key-rotation-of-security-council-october-2024/27183,"TLDR
+
+The Security Council is initiating a non-emergency action,
+After that is complete, Omer Greisman from OpenZeppelin with Steven Thornton from OpenZeppelin.
+OpenZeppelin is a corporate member of the Security Council and this helps accommodate changing their representative.
+
+No actions need to be taken by users of Arbitrum One or Arbitrum Nova. We will update this thread as we progress through the steps of enabling the action and rotating the security council member’s keys.
+If you have any qu"
+168,About the Security Council category,https://forum.arbitrum.foundation/t/about-the-security-council-category/26546,"(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters.)
+Use the following paragraphs for a longer description, or to establish category guidelines or rules:
+
+
+Why should people use this category? What is it for?
+
+
+How exactly is this different than the other categories we already have?
+
+
+What should topics in this category generally contain?
+
+
+Do we need this category? Can we m"
+169,September 2024 Member Election Phase,https://forum.arbitrum.foundation/t/september-2024-member-election-phase/27156,"The Member Election Phase (the final round of voting) for the Arbitrum Security Council’s September 2024 Cohort, commenced on October 13th at 15:15 UTC. This phase will run for 21 days, until November 3rd.
+1600×800 148 KB
+Be sure to review the final candidates and vote for those who you believe will best secure the Arbitrum ecosystem 
+
+
+Tally
+
+
+
+Member Election | Arbitrum Security Council Election
+The top 6 candidates will join the Council.
+
+
+
+
+
+Compliance Checks
+Out of the 39 candidates who reg"
+170,Security Council Elections - L2BEAT voting rationale thread,https://forum.arbitrum.foundation/t/security-council-elections-l2beat-voting-rationale-thread/16666,"The below response reflects the views of L2BEAT’s governance team, composed of @krst and @Sinkas, and it’s based on the combined research, fact-checking and ideation of the two.
+As L2BEAT, we have decided to spread our voting power to 5 nominees, ensuring 3 of them qualify for the next stage, and signalling our strong support for 2 of them in the process. On a high-level, the 4 aspects that helped us drive our decision were:
+
+Strong technical knowledge
+
+It’s imperative for each member of the sec"
+171,Arbitrum Security Council Emergency Action - ArbOS 32,https://forum.arbitrum.foundation/t/arbitrum-security-council-emergency-action-arbos-32/26942,"The Arbitrum Security Council proactively addressed potential technical issues with a network upgrade to Arbitrum Nitro v3.2.0. This upgrade, completed for Arbitrum One, Nova, and Sepolia networks, strengthens the network’s stability and prevents potential problems.
+Here’s what you need to know:
+
+No impact on funds: This upgrade did not affect any user funds and everything remains secure.
+Improved network stability: The upgrade addresses three areas:
+
+A potential mispricing issue in Arbitrum Sty"
+172,Security Council Emergency Action Transparency Report,https://forum.arbitrum.foundation/t/security-council-emergency-action-transparency-report/26997,"This post is made on behalf of The Security Council following the Emergency action initiated on 25 September 2024.
+
+On 25 September 2024 the Security Council initiated an Emergency Action to execute a software upgrade on ArbitrumDAO-governed chains (Arbitrum One and Nova). The software upgrade is a response to vulnerabilities that could have affected the availability of the chains. This document describes what was done and why the actions were justified (as required per Section 3 of the Arbitrum"
+173,September 2024 Nominee Selection Phase,https://forum.arbitrum.foundation/t/september-2024-nominee-selection-phase/26904,"The Nominee Selection phase of the September 2024 Security Council election process has commenced.
+WHO?
+
+39 candidates have registered for the election, check them out on Tally
+
+WHAT?
+
+Delegates must nominate their preferred candidates on Tally in order for them to qualify for the final round of voting
+Delegates can split their votes across multiple candidates
+To qualify for the final round of voting, each eligible candidate must be supported by pledged votes representing at least 0.2%(~8.6M ARB"
+174,Hacken — Candidate for Security Council (September '24 Elections),https://forum.arbitrum.foundation/t/hacken-candidate-for-security-council-september-24-elections/26937,"Greetings, Arbitrum Forum crowd,
+Hacken is here, one of the ADPC Whitelisted Security Providers, Cohort I.
+Background
+We started running a blockchain CyberSecurity business in 2017, when smart contract audits were not ‘a thing’, leaving them aside as a primary requirement it is today. This was achieved through tight cooperation with CoinGecko and the Enterprise Ethereum Alliance in its early days. We take pride in our long-term responsibility for the Web3 space; our main goal is to make it a saf"
+175,Kolawole Oluwatosin - Candidate for Security Council Elections Sep-2024 Ready to Contribute,https://forum.arbitrum.foundation/t/kolawole-oluwatosin-candidate-for-security-council-elections-sep-2024-ready-to-contribute/26869,"Hello everyone,
+My name is Kolawole Oluwatosin and I am excited to apply for a position on the  Arbitrum Security Council. I bring a unique blend of certifications, technical skills, and deep passion for governance, risk management, and security in both Web2 and Web3 ecosystems. My journey thus far has equipped me with a solid understanding of the challenges and solutions within the evolving landscape of blockchain security.
+As a certified cybersecurity professional, I have honed my skills in ar"
+176,March 2024 Election Compliance,https://forum.arbitrum.foundation/t/march-2024-election-compliance/23159,"The compliance stage of the March 2024 Security Council elections has come to an end. Out of 22 candidates, 2 will not be progressing to the member election.
+
+Mudit Gupta: In accordance with the ArbitrumDAO Constitution, they have been removed from the elections due to a conflict of interest (as previously discussed on the forums).
+Frisson: stepped down in favor of another candidate (as posted by them on the forums).
+
+The onchain transaction can be verified in Arbitrum One Transaction Hash (Txha"
+177,Cyfrin - Application for Security Council,https://forum.arbitrum.foundation/t/cyfrin-application-for-security-council/26891,"GM!
+Great to meet you all, and thank you for taking the time to consider our application to the security council!
+You may already recognise the Cyfrin name through our relationship with Arbitrum as a whitelisted security service provider or through our CEO, Patrick Collins, and his widely viewed educational videos.
+For those who don’t know us, we are a security company with a mission of making Web3 safer for everyone, and we do this in four ways:
+
+We provide Smart Contract audits,
+We teach devel"
+178,WakeUp Labs - Candidate for Security Council,https://forum.arbitrum.foundation/t/wakeup-labs-candidate-for-security-council/26878,"Hello Arbitrum Community,
+I’m writing today as the representative of our organization, WakeUp Labs.
+WakeUp Labs is a blockchain development company based in Argentina that specializes in EVM-compatible chains, DAOs, protocols, and startups. Over the past 2.5 years, we have dedicated ourselves to advancing the web3 ecosystem and Ethereum through our core values of decentralization, collaboration, and excellence. Our technical expertise and active involvement in the Arbitrum DAO make us strong can"
+179,Dedaub - Intent to run for the Sep 2024 Security Council Elections,https://forum.arbitrum.foundation/t/dedaub-intent-to-run-for-the-sep-2024-security-council-elections/26866,"Dear Arbitrum Community, thanks for inviting us to contest the Arbitrum Security Council election. Being a member of the security council would align with our team’s mission, having already been part of the zkSync security council and having worked for various stakeholders in the Arbitrum and greater Ethereum community. You can find further information about our application below:
+Motivation
+At Dedaub, our fundamental mission is to enhance the security and resilience of the Web3 ecosystem. We ar"
+180,0xDonPepe - Candidate for Security Council,https://forum.arbitrum.foundation/t/0xdonpepe-candidate-for-security-council/26861,"I am announcing my candidacy for the Arbitrum Security Council: Here’s why I’m running and why I believe I can contribute to securing the future of our ecosystem.
+ Hey Arbitrum community, I’m 0xDonPepe from Mexico, and I’m excited to announce my candidacy for the Arbitrum Security Council. With 11 years in the cryptocurrency space, I bring a unique blend of TradFi and DeFi experience to the table. Here’s what you should know about me.
+ Educational Background
+I hold a Master’s degree in Finance &"
+181,Haaroon - Candidate for Security Council Sept 2024!,https://forum.arbitrum.foundation/t/haaroon-candidate-for-security-council-sept-2024/16323,"Haaroon - Potential Candidate for Security Council!
+Hello Everyone 
+I am Haaroon Yousaf, and I am running as a contender to join the Security Council for Sept 2024. I believe my background in blockchain security and analytics, as well as my passion for Arbitrum, would make me a strong member of the Arbitrum Security Council.
+Qualifications and relevant experience
+I am very fortunate to work with amazing people, obtained a PhD from a top university in the United Kingdom, and have published multip"
+182,Rxpwnz - Candidate for Security Council Elections 2024,https://forum.arbitrum.foundation/t/rxpwnz-candidate-for-security-council-elections-2024/26631,"Hello, I’m rxpwnz, currently serving as a community manager and technical moderator for the Hop Protocol, a role I’ve dedicated myself to for nearly three years. My responsibilities extend across several critical areas including operational security (OpSec), community support, troubleshooting, bug and vulnerability reporting, and more. Additionally, I have been a part of the Community Multisig committee at Hop Protocol for over a year, contributing to key governance decisions and securing commun"
+183,Feld - Candidate for Security Council,https://forum.arbitrum.foundation/t/feld-candidate-for-security-council/26784,"Hello all,
+Nice to meet you all!
+I am the founder of Boring Security, a public good focused on security education, awareness, and a bit of asset recovery. Some of you may recognize us from when we rescued 36 BAYC and 18 MAYC from a hacker back in December 2023. We are a 2+ years running public good that has facilitated live classes on topics like Wallet Management, Sleuthing, Social Media Security to thousands of our Alumni, free of charge through the power of such partners such as Gitcoin, Ledg"
+184,Non emergency actions to facilitate key rotation of Security Council - June 2024,https://forum.arbitrum.foundation/t/non-emergency-actions-to-facilitate-key-rotation-of-security-council-june-2024/25140,"TLDR
+
+The Security Council is initiating a non-emergency action to enable the non-emergency path to perform key rotations.
+After that is complete, some members will be rotating into new addresses within the council (the members are the same but in new addresses with more secure setups).
+
+No actions need to be taken by users of Arbitrum One or Arbitrum Nova. We will update this thread as we progress through the steps of enabling the action and rotating the security council member’s keys. If you h"
+185,Candidate Election Phase - March 2024,https://forum.arbitrum.foundation/t/candidate-election-phase-march-2024/23203,"The Member Election phase has commenced, on April 12th at 20:09 UTC, and will run for 21 days (3 weeks).
+1600×800 147 KB
+The Nominees
+During this phase, delegates will be able to vote on their preferred nominee(s), out of those listed below:
+
+Alizk.eth
+Bartek.eth
+Blockdev
+Certora
+Chuygarcia.eth
+Emiliano Bonassi
+Fred
+Gzeon
+Jana Bertram
+Jdetychey
+Justin Leroux
+Limes.eth
+Lumyo
+Hexagate
+OpenZeppelin
+Pablo Sabbatella (pablito.eth)
+Raf Solari
+Ryón Nixon
+Yoav.eth
+Zellic
+
+How does voting work?
+This fina"
+186,Stepping Down as a Candidate in Favor of Raf from Tally,https://forum.arbitrum.foundation/t/stepping-down-as-a-candidate-in-favor-of-raf-from-tally/23001,"Hello Arbitrum friends,
+I’d like to formally announce that I’m stepping down as a candidate in this Security Council Election. Raf from Tally is running, and he is a much better fit for the technical aspects of the role.
+Cheers,
+Frisson"
+187,Addressing the Conflict of Interest in Nomination of Candidates for the Security Council,https://forum.arbitrum.foundation/t/addressing-the-conflict-of-interest-in-nomination-of-candidates-for-the-security-council/22843,"ArbitrumDAO is currently in the process of electing 6 new members for the March 2024 Cohort of the Security Council out of 44 candidates who have applied for the role during the Contender Submission phase.
+
+Section 4 of the Arbitrum Constitution, outlines that those with ‘affiliations with direct Arbitrum competitors’ are not eligible to join the Security Council:
+
+No candidate with conflicts of interest that would prevent them from acting in the best interests of the ArbitrumDAO, Governed Chain"
+188,Justin Leroux Security Council Candidacy Announcement,https://forum.arbitrum.foundation/t/justin-leroux-security-council-candidacy-announcement/22696,"Hello everyone, I’m Justin Leroux, CEO of hardware wallet manufacturer GridPlus, and I’m excited to announce my candidacy for the Arbitrum Security Council.
+Every day of my life revolves around blockchain security and the greater Ethereum ecosystem. This focus is simultaneously my vocation and my passion: there’s little distinction between work and free time. Researchers, developers, and security experts are both my colleagues and social circle.
+Providing secure hardware for critical self-custod"
+189,Security Council Members: Duties and Principles,https://forum.arbitrum.foundation/t/security-council-members-duties-and-principles/16313,"We provide an overview on the role of a Security Council member and it includes:
+
+Responsibilities of Security Council members,
+Key attributes to look out for when evaluating whether a candidate may be a good security council member,
+Accountability of the Security Council members.
+
+What is the Security Council?
+Screenshot 2024-08-29 at 14.03.151376×928 89.4 KB
+The Security Council, consisting of 12 members chosen by the Arbitrum community, has the power to upgrade bridge smart contracts.
+They ca"
+190,CvH - VP Security @ Polygon Labs - Candidate for Security Council,https://forum.arbitrum.foundation/t/cvh-vp-security-polygon-labs-candidate-for-security-council/22718,"Hello Arbitrum fam,
+I’m Christopher von Hessert, currently VP for Security @ Polygon Labs. Below you can find my socials for a bit around my experience and some details on my nomination follow.
+Linkedin: Christopher von Hessert - Polygon Labs | LinkedIn
+Twitter: https://twitter.com/cvhessert
+Motivation
+I want to make web3 more trustworthy, thats my personal goal, thats all I care.
+I’ve dedicated my career to cybersecurity and currently helping drive a security culture at Polygon labs and its eco"
+191,Niv Yehezkel - Hexagate - Candidate for Security Council,https://forum.arbitrum.foundation/t/niv-yehezkel-hexagate-candidate-for-security-council/22715,"Hi everyone,
+My name is Niv, I’m the CTO and co-founder of Hexagate (https://hexagate.com), a web3 security vendor that provides real-time security and risk detection and response platform for protocols, chains, bridges and asset managers.
+Hexagate currently serves and works the biggest names in the industry: Consensys, Polygon, Coinbase, Ava Labs, Chainalysis, GMX, EigenLayer and many many others.
+Our team is comprised of the most talented security experts and researchers. We have been involved"
+192,How to Register as a Candidate,https://forum.arbitrum.foundation/t/how-to-register-as-a-candidate/16364,"Are you (as an individual and/or entity) interested in becoming a Security Council member for the Arbitrum ecosystem?
+Before continuing, please read:
+
+Security Council Elections 101
+Security Council Members Responsibilities
+
+Candidate submission registrations on Tally open on 15th September 2024 at 12:00 UTC; and the initial election (nominee selection) begins on 22nd September 2024 at 12:00 UTC: Tally | Arbitrum Security Council Election
+Recommendations Before Registering
+Prior to 15th Septembe"
+193,Gal Sagie - Candidate for Security Council,https://forum.arbitrum.foundation/t/gal-sagie-candidate-for-security-council/22547,"Hello All,
+My name is Gal Sagie, CEO and Co-Founder of Hypernative (https://www.hypernative.io), the leading and most advance real time security and threat prevention platform.
+I am nominating myself to represent Hypernative as part of Arbitrum security council, our full team expertise and experience will be leveraged to help and advance the state of security and safety in Arbitrum.
+My personal experience and Hypernative security contribution
+Over the last 2 years i am the CEO and Co-Founder of "
+194,Pablo Sabbatella (pablito.eth) - Candidate for Security Council,https://forum.arbitrum.foundation/t/pablo-sabbatella-pablito-eth-candidate-for-security-council/22578,"Hi,
+I am Pablo Sabbatella, also known as pablito.eth. I am Argentinian, 39 years old, and based in Buenos Aires. Fully doxxed.
+As you will see in my application, my main focus and experience are in Operational Security. I have been involved in cybersecurity in some way for the last 24 years and am now fully dedicated to Blockchain security, specifically researching new kinds of attacks and conducting some on-chain investigations. I am doing this research for Blockfence.
+I am also part of SEAL (S"
+195,Limes.eth - Intent to run for March 2024 Security Council Elections,https://forum.arbitrum.foundation/t/limes-eth-intent-to-run-for-march-2024-security-council-elections/22444,"gm everyone,
+I will be putting my name in the hat for the Arbitrum Security Council election. I find that my current position as Steward and Secretary at ENS ties closely with the responsibilities of the Security Council as it demands integrity, reliability, and experience with multisigs.
+About me:
+Arbitrum Delegate and Community Member: As a delegate, I am to understand the workings of Arbitrum, both technically and socially, and putting the chain in the best place to succeed. Additionally,  I "
+196,Pablo Sabbatella (pablito.eth) - Candidate for Security Council Election Sep 2023,https://forum.arbitrum.foundation/t/pablo-sabbatella-pablito-eth-candidate-for-security-council-election-sep-2023/16653,"Hi,
+As you can see in my application, my main focus and experience is in OpSec. I have been involved in cybersecurity in some way for the last 23 years and now fully dedicated to Blockchain security.
+I have a quite big twitter profile where I talk mainly about security in the blockchain ecosystem:
+My Twitter account: https://twitter.com/pablosabbatella
+I do regular audits for people who are usually target of attacks due to their exposure.
+I understand what measures have to be put in place in ord"
+197,The Arbitrum Expansion Program and Developer Guild,https://forum.arbitrum.foundation/t/the-arbitrum-expansion-program-and-developer-guild/20722,"TL;DR:  In collaboration with Offchain Labs, the Arbitrum Foundation is excited to announce the new Arbitrum Expansion Program and Arbitrum Developer Guild.
+Teams interested in launching Arbitrum technology chains now have an easier, self-service path for launching custom Arbitrum Orbit Chains by joining the Expansion Program. It allows any project to deploy their own customized version of the Arbitrum technology stack. L3s that settle to Arbitrum One and Nova already are and remain free and per"
+198,Welcome to Discourse,https://forum.arbitrum.foundation/t/welcome-to-discourse/7,"Welcome to the Forum!
+This forum is dedicated to discussions and exchange of ideas related to governance.
+Please read the following guidelines carefully to ensure a productive and respectful community.
+Stay on topic: This forum is dedicated to discussions related to governance only. Please refrain from discussing unrelated topics. Off-topic or irrelevant posts may be removed by the moderators.
+Be respectful: Respect other forum members, their opinions, and their rights to express themselves. Do "
+199,About the General category,https://forum.arbitrum.foundation/t/about-the-general-category/3,Create topics here that don’t fit into any other existing category.
+200,Arbitrum Ventures Initiative Hub,https://forum.arbitrum.foundation/t/arbitrum-ventures-initiative-hub/26008,"AVI banner1920×1069 269 KB
+Welcome to the Arbitrum Ventures Initiative information Hub!
+Following the approval of the first AVI proposal on Tally on July 26th, 2024, we are launching the initiative this week. We will provide bi-weekly updates in this thread and use it as a central hub for all AVI-related resources.
+About AVI
+The AVI (Arbitrum Venture Initiative) is on a mission to develop the structure for an Arbitrum Ecosystem Investment Fund (or nomenclature equivalent).
+Though initiated by th"
+201,"Unifying Arbitrum DAO’s Vision, Mission, and Goals",https://forum.arbitrum.foundation/t/unifying-arbitrum-dao-s-vision-mission-and-goals/26537,"Unifying Arbitrum DAO’s Vision, Mission, and Goals
+Please note that the following should be considered a rough draft as we seek feedback from the Arbitrum community and experts with brand and marketing experience to help make this more robust. That said, we think it is important to start seeking feedback as soon as possible. Following extensive conversations with key stakeholders and active delegates, we’ve strived to distill their thoughts and ideas into a cohesive vision for the Arbitrum DAO, "
+202,"19th GRC - Governance Reporting Call on Wednesday, September 25th at 2pm UTC",https://forum.arbitrum.foundation/t/19th-grc-governance-reporting-call-on-wednesday-september-25th-at-2pm-utc/26901,"REMINDER: The 18th Open Governance Call will take place on Wednesday, August 28th. The call will happen at 2 pm UTC / 11 am EST.
+
+Please mark your calendars (or you can subscribe to the public Arbitrum Governance calendar  and always be up to date with our calls).
+On Google Meet: meet.google.com/ouo-uskg-niq 
+
+UPDATES TO POST:
+By Tuesday, you should be able to see the updates for all initiatives here: 19th GRC (Monthly Governance Report Call)_ 240925. Note that teams are still updating the docum"
+203,information about funded projects,https://forum.arbitrum.foundation/t/information-about-funded-projects/26968,"Notion
+
+
+
+Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+
+
+
+
+
+
+I saw some funded projects here and want to study related projects. Where can I see the details of these projects? I didn’t see any relevant proposals on tally or snapshot."
+204,Governance aggregator + assistant,https://forum.arbitrum.foundation/t/governance-aggregator-assistant/27070,"GM!
+I’ve spoken to a number of people in the Arbitrum community who have been using our product x23.ai to keep up to date with governance. I’d love to get more feedback from users and the community on how we can make the product even better for Arbitrum DAO and delegates.
+One of the features we’ll complete soon are synthetic delegate profiles, so the community can see how and why delegates vote certain ways. Another upcoming feature will be proposal evolution, so readers can easily follow the li"
+205,Make Arbitrum Alignment Legible - Proposal Discussion,https://forum.arbitrum.foundation/t/make-arbitrum-alignment-legible-proposal-discussion/27003,"On Thursday, October 3rd at 13:30 @DisruptionJoe and I will host a walk-through of our proposal.
+We will post a draft of the proposal Thursday, but you can see the alignment post here: Make Arbitrum Alignment Legible
+Meeting invite here: meet.google.com/bzj-gfnh-nma"
+206,Aave Protocol Embassy Delegate Communication Thread,https://forum.arbitrum.foundation/t/aave-protocol-embassy-delegate-communication-thread/27023,"Delegate Information
+Name: APE (Aave Protocol Embassy)
+Delegate Address: 0xa9e777D56C0Ad861f6a03967E080e767ad8D39b6
+Forum: @APE
+Twitter: Aave
+Languages: English, French, Spanish
+Introduction and Experience
+The Aave Protocol Embassy (APE) serves as the official representative of the Aave DAO within the Arbitrum Ecosystem. Our primary role is to voice the collective opinions, ideas, and concerns of our community members, ensuring they are heard and addressed in the broader context of the Arbitrum "
+207,Web3 Grant Program Research and Analysis(C. Syndicate RFP 4 Report),https://forum.arbitrum.foundation/t/web3-grant-program-research-and-analysis-c-syndicate-rfp-4-report/26939,"Web3 Grant Program Research and Analysis
+Overview
+This report provides an in-depth exploration of Web3 grant programs, analyzing them from various angles to understand their best practices, effectiveness, development, and overall impact. Our research examines best practices, methods for measuring program success, and the development of a maturity framework for grant programs in this space. Additionally, we outline key impact metrics based on insights from a range of Web3 grant programs. Another "
+208,Updates on Bitsave Protocol <> Oasis Grant,https://forum.arbitrum.foundation/t/updates-on-bitsave-protocol-oasis-grant/26972,"Project Progress Report (September 4th through to 30th, 2024)
+WAITING PERIOD
+Waited for Stylus Upgrade till September 3rd
+DEPLOYMENT PERIOD
+Successfully deployed the first contract to the Sepolia testnet using Stylus.
+Contract address: 0x7d839923eb2dac3a0d1cabb270102e481a208f33
+VERIFICATION PERIOD
+Issue:
+Encountered a problem with the Stylus CLI tool verification process.
+The tool reports successful verification, but the contract doesn’t show as verified on Arbiscan.
+Action:
+A detailed issue rep"
+209,Want to know about community meetings,https://forum.arbitrum.foundation/t/want-to-know-about-community-meetings/26896,"Hello, Evenyone.
+I have been reading a lot about arbitrum recently, such as x, forums, tally, snapshots, and learned some things about arbitrum governance, LTIPP, ARDC, ADPC, and I am also sorting out some arbitrum-related projects…
+Now I want to participate more deeply in the arb ecosystem, so I want to know if there are any community meetings that I can attend.
+ps: I asked about it on discord before, and I met a scammer ,lol, so I wanted to post a topic on the forum. If you need to comply with"
+210,State of the ARB Token,https://forum.arbitrum.foundation/t/state-of-the-arb-token/26952,"Disclaimer: This content is for educational purposes only and not financial advice. It’s based on historical data which may not predict future market trends. Cryptocurrency markets are volatile and risky, and the authors bear no responsibility for any decisions made from this analysis
+TLDR: 5-point Summary
+
+ARB liquidity on CEX has plummeted, with even $2 million causing potential price impact of 20%
+ARB onchain liquidity is greatly improved in the aggregate and even better than CEX, primarily d"
+211,"ArbitrumGovBot, bringing the Research and Governance forums to Twitter",https://forum.arbitrum.foundation/t/arbitrumgovbot-bringing-the-research-and-governance-forums-to-twitter/26951,"Hello, Arbitrum community!
+We’re excited to announce the launch of ArbitrumGovBot, following the success of EthResearchBot! This new Twitter bot will provide summaries and links to the latest posts from the Arbitrum Governance and Research forums.
+With ArbitrumGovBot, you can easily stay updated on important governance discussions and cutting-edge research, and share any posts that spark your interest.
+We hope you find it a valuable resource for keeping up with all the activity in the Arbitrum e"
+212,Treasury Management Working Group Call,https://forum.arbitrum.foundation/t/treasury-management-working-group-call/26723,"It has come to our attention that the conversation around management of the DAO’s treasury has become highly fragmented. There are numerous entities involved in the conversation at this point, which is made evident by Gauntlet and Karpatkey’s recent proposal to manage a portion of the treasury and Avantgarde’s attempt at establishing a paid treasury oversight council. @Pepperoni_Jo3 and @thedevanshmehta have also been involved in some of these conversations, and Entropy was also contacted by oth"
+213,DAO-Owned liquidations using Collaterized Debt Positions,https://forum.arbitrum.foundation/t/dao-owned-liquidations-using-collaterized-debt-positions/21109,"Disclaimer:
+This article is for informational and educational purposes only and not intended as financial or legal advice. Market conditions are subject to change, and readers should conduct their own research and consult with professional advisors before making financial decisions. Any actions taken based on this article are at the reader’s own risk, and the authors bear no responsibility for the outcomes.
+Introduction
+This post aims to delve deeply into the mechanics and strategic advantages o"
+214,Token Swaps as Ecosystem Enablers Report,https://forum.arbitrum.foundation/t/token-swaps-as-ecosystem-enablers-report/26926,"This report draws lessons from over 50 DAO token swaps between 2021 and 2023 to identify patterns leading to successful DAO-to-DAO coordination. In this report’s second half, the insights are used to assess the utility of DAO token swaps for Arbitrum.
+Thanks to the Thank ARB Firestarters Program powered by Thrive Protocol, which made this research possible, and everyone who provided input for this report through calls or written contributions.
+5 Point Summary
+
+
+Token Swaps are ecosystem enablers"
+215,Arbitrum Delegation Frame on Farcaster - Now LIVE,https://forum.arbitrum.foundation/t/arbitrum-delegation-frame-on-farcaster-now-live/26543,"We have launched the Arbitrum Delegation Frame on Farcaster. We wanted to create a simple way for anyone to check their ARB delegation and re-delegate to active delegates. The goal is to make the delegation process straightforward and easy to understand.
+ You can test out The Arbitrum Delegation Frame here: https://warpcast.com/tempetechie.eth/0x2f1c4fcf
+Below you can find a description of the frame functions and how they work.
+Check My Delegate
+
+The first call to action is there to hook users i"
+216,RWA Treasury proposal,https://forum.arbitrum.foundation/t/rwa-treasury-proposal/26895,"I am pleased introduce myself and to ask if you would consider allocating from Treasury to a low/medium risk asset - MarkitLend US Consumer Credit Fund.  This fund invests in a diversified pool of consumer loans originated by Prosper and Lending Club.  We have been running this strategy internally for the past several years and now are opening to external investors.
+Value Proposition/Investment Thesis:
+MarkitLend US Consumer Credit Fund enables investors to access an asset class traditionally av"
+217,Ramses: Request for Transparency Regarding Alleged Fee Adjustments and Arbitrage Practices,https://forum.arbitrum.foundation/t/ramses-request-for-transparency-regarding-alleged-fee-adjustments-and-arbitrage-practices/26495,"Ramses: Request for Transparency Regarding Alleged Fee Adjustments and Arbitrage Practices
+Entropy would like to formally request an explanation from Ramses regarding the following concerns that have been raised:
+545×546 38.2 KB
+It has been alleged that Ramses is lowering fees to zero, enabling the team to capitalize on arbitrage opportunities within its own pools, before raising the fees back to normal levels for other traders. This practice results in LPs receiving no fees during this toxic fl"
+218,Adding tiny links to the forum,https://forum.arbitrum.foundation/t/adding-tiny-links-to-the-forum/26384,"Would it be possible for this forum to have an option to automatically generate tiny links, that can fit within the character limit of snapshot votes?
+This feature would save delegates wanting share such feedback on snapshot for easy reference time on each and every governance vote, while also bringing more traffic back to the Arbitrum forums"
+219,DuckChain: First Arbitrum Orbit Deployment on a Non-Ethereum Chain (TON),https://forum.arbitrum.foundation/t/duckchain-first-arbitrum-orbit-deployment-on-a-non-ethereum-chain-ton/26094,"This post serves to notify the Arbitrum DAO that DuckChain, a revolutionary Layer 2 solution designed for liquidity, will be the first Arbitrum Orbit Chain to be deployed on the TON network, a non-Ethereum chain. DuckChain seamlessly integrates with the TON ecosystem while providing EVM compatibility, expanding the Arbitrum Orbit ecosystem into new territories.
+Motivation
+The TON ecosystem is rapidly expanding, with significant Total Value Locked (TVL) and an active user base. However, the lack "
+220,Syntra – Setting a New Standard for DAO Participation,https://forum.arbitrum.foundation/t/syntra-setting-a-new-standard-for-dao-participation/26848,"This is Syntra App Communication Thread. We will publish here all updates regarding to Syntra App
+In the evolving world of decentralized governance, DAOs have become central to decision-making across Web3. Yet, for many delegates, the tools and processes available often feel fragmented, isolated, and hard to navigate. We’ve experienced these challenges firsthand, not just as developers but as participants in various DAOs.
+Today, we’re announcing Syntra, a delegate dashboard born from this realiz"
+221,Zeroknowledge - Candidate for Security Council Elections 2024,https://forum.arbitrum.foundation/t/zeroknowledge-candidate-for-security-council-elections-2024/26834,"I bring over 20 years of deep experience in security and cryptography, having worked as both a researcher and consultant. My journey has led me to work with some of the most well-known research groups in security and cryptography across academia and industry, including Microsoft Research. I have also collaborated with top-tier financial institutions like AIB, HSBC, Lloyds, and Zurich. My expertise in blockchain dates back to the early days of the technology, with involvement in key projects like"
+222,What are the key upcoming developments for Arbitrum in the next year?,https://forum.arbitrum.foundation/t/what-are-the-key-upcoming-developments-for-arbitrum-in-the-next-year/26778,"Hello everyone,
+I’m curious about the future roadmap for Arbitrum. What are the major developments, upgrades, or new features planned for the network in the coming year? 
+I’m particularly interested in any updates related to scalability improvements, new use cases, or ecosystem growth. I have referred https://forum.arbitrum.foundation/t/arbitrum-governance-upgrade-rollout-timeline/26462- msbi documentation guide but still need help.
+Additionally, are there any significant partnerships or collabo"
+223,Support for a NEW DAO focused youtube show featuring Arbitrum DAO,https://forum.arbitrum.foundation/t/support-for-a-new-dao-focused-youtube-show-featuring-arbitrum-dao/26320,"Introducing DAO Watch to the Arbitrum Community! 
+We’re excited to invite you to check out DAO Watch, a series dedicated to diving deep into the latest developments, challenges, and innovations in the world of decentralized autonomous organizations (DAOs). Each episode covers a range of DAOs, offering insights and discussions on proposals, governance, and more.
+In our latest episode (#29), we feature Arbitrum and delve into the ongoing discussion around the proposal to consolidate multisig servi"
+224,Discord Server Ban,https://forum.arbitrum.foundation/t/discord-server-ban/14760,"Hey there
+I would love to join back the discord server, I don’t know why but after I posted a dune dashboard for Sybil detection which I developed I got banned from the server. Would love to join back again, can someone help me out?"
+225,Stylus SDK Audit,https://forum.arbitrum.foundation/t/stylus-sdk-audit/26674,"At the request of the Arbitrum Foundation, OpenZeppelin audited Offchain Lab’s Stylus SDK.
+Summary
+Type:   Smart Contract Language
+Timeline:   From 2024-07-08 To 2024-08-09
+Languages:   Rust
+Total Issues:   36 (27 resolved, 1 partially resolved)
+Critical Severity Issues:   2 (1 resolved, 1 partially resolved)
+High Severity Issues:   2 (2 resolved)
+Medium Severity Issues:   10 (7 resolved)
+Low Severity Issues:   12 (8 resolved)
+Notes & Additional Information:   10 (9 resolved)
+Scope
+We audited th"
+226,Onboarding on web3. Practices,https://forum.arbitrum.foundation/t/onboarding-on-web3-practices/26601,"i’m Monica Urrutia I’m from Catalunya and i’m working towards onboarding  people on web3 in Catalan language. I’m going to give a class on Arbitrum NFTs in Barcelona on wednesday, and I need a fair amount of Sepolia ETH for my students. I want to run an exercise and would like my class to use them. The faucet only allows me to obtain a small amount every 72 hours. Could anyone help me out, please? 🪻"
+227,About the Archive category,https://forum.arbitrum.foundation/t/about-the-archive-category/25453,"Categories, posts, and other initiatives, whose posts should be preserved."
+228,Team Lampros Labs DAO - LTIPP Research Bounty Reports,https://forum.arbitrum.foundation/t/team-lampros-labs-dao-ltipp-research-bounty-reports/27015,"This research analysis was conducted for the Arbitrum Foundation as part of the LTIPP Research Bounty.
+TL;DR
+We were selected by the LTIPP Council members to conduct a research analysis for the Long-Term Incentive Pilot Program (LTIPP). We worked on two research topics: Research Report 1 focuses on the Analysis of Incentive Program Effectiveness for LTIPP Participating Protocols on Arbitrum, while Research Report 2 examines the Effects of Growth Incentives on Non-Recipient Protocols. We are subm"
+229,Team #6: An (EIP-4824 powered) daoURI for the Arbitrum DAO,https://forum.arbitrum.foundation/t/team-6-an-eip-4824-powered-daouri-for-the-arbitrum-dao/25371,"Track: GovTech
+Challenge Statement: “Data surrounding the Arbitrum DAO is scattered all over the place. How can we increase data availability and accessibility without losing decentralisation?”
+Members: Aman and Rashmi Abbigeri
+Team Lead contact name or alias: Aman (Telegram: amanwithwings)
+PITCH: daoURI for Arbitrum DAO🚀 | Loom
+
+Abstract
+We propose that the Arbitrum DAO takes control of its data by publishing a daoURI onchain. The daoURI, following EIP-4824, will create a single source of truth"
+230,Team 17 - Arbitrum DAO Treasury Diversifying Through RWA Assets,https://forum.arbitrum.foundation/t/team-17-arbitrum-dao-treasury-diversifying-through-rwa-assets/25384,"Track Names: RWA & DAO Budget
+Challange Statement: Challange Statement Document
+Members: Caner Budak & İsmail Emin Erdoğdu
+Team Lead: Caner Budak
+Pitch: Loom & Pitch Deck
+Arbitrum DAO Treasury Diversifying Through RWA Assets
+Abstract
+Arbitrum DAO has taken steps toward diversifying its treasury and is currently voting on a proposal to invest in RWA assets with a low-risk profile. This proposal aims to further diversify the Arbitrum DAO treasury by including medium and high-risk profile assets, t"
+231,[SX Bet] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/sx-bet-ltipp-application-final/22061,"SECTION 1: APPLICANT INFORMATION
+Provide personal or organizational details, including applicant name, contact information, and any associated organization. This information ensures proper identification and communication throughout the grant process.
+Applicant Name:
+Andrew Young
+Project Name:
+SX Bet
+Project Description:
+SX Bet is a peer-to-peer web3 betting exchange that allows all users to both offer and take bets. This is different from traditional sportsbooks, where users can only take bets "
+232,[Revest Labs] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/revest-labs-ltipp-application-final/22028,"SECTION 1: APPLICANT INFORMATION
+Applicant Name: Rob Montgomery
+Project Name: Revest Labs
+Project Description: Revest develops and provides a suite of yield products built on existing systems & assets that are intended to bridge the gap between traditional finance and DeFi. The first system we brought to market was Resonate, our novel yield-swaps protocol that is focused around RWA yields. Currently, we are planning on rolling out new yield strategies on Arbitrum that we will describe within.
+Te"
+233,[Sperax] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/sperax-ltipp-application-final/21728,"SECTION 1: APPLICANT INFORMATION
+Applicant Name: Sperax Foundation
+Project Name: Sperax
+Project Description: Sperax manages two protocols, USDs, a 100% collateralized auto-yield bearing stablecoin protocol, and Demeter, a multi-dex open-access yield farming platform, on Arbitrum Network.
+Core Team Members and Roles
+
+Subh: Lead Product Advisor
+
+
+
+About 10 years of experience in product development and management. He has been working in the defi space for 5 years. He has done his Bachelor’s and Ma"
+234,[Orange Finance] LTIPP Application FINAL,https://forum.arbitrum.foundation/t/orange-finance-ltipp-application-final/21664,"SECTION 1: APPLICANT INFORMATION
+Provide personal or organizational details, including applicant name, contact information, and any associated organization. This information ensures proper identification and communication throughout the grant process.
+Applicant Name: Rubio Kishigami (0xkohaku)
+Project Name: Orange Finance
+Project Description:
+Orange Finance is an automated liquidity management protocol at the forefront of LPDfi innovation in the DeFi space. Our mission is to simplify liquidity p"
+235,[FINAL] Jones STIP Addendum,https://forum.arbitrum.foundation/t/final-jones-stip-addendum/23570,"Information about STIP/STIP Backfund
+1. Can you provide a link to your previous STIP proposal (round 1 or backfund)?
+
+
+
+
+[Jones DAO] [FINAL] [STIP - Round 1] Incentive Framework (Round 1)
+
+
+[grant]
+SECTION 1: APPLICANT INFORMATION
+Applicant Name: Jones DAO 
+Project Name: Jones DAO 
+Project Description: 
+Jones DAO is a yield, strategy, and liquidity protocol with vaults that enable 1-click access to institutional-grade strategies. These strategies unlock liquidity and capital efficiency for DeFi "
+236,[Pyth Network] LTIPP Application Draft,https://forum.arbitrum.foundation/t/pyth-network-ltipp-application-draft/22003,"please note that a few fields have ‘…to fill in’ mentions, these will be edited in within the next few days.
+SECTION 1: APPLICANT INFORMATION
+Provide personal or organizational details, including applicant name, contact information, and any associated organization. This information ensures proper identification and communication throughout the grant process.
+Applicant Name:
+Marc Tillement
+Project Name:
+Pyth Network
+Project Description:
+The Pyth Network is a first-party financial oracle network d"
+237,[Verified USD] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/verified-usd-ltipp-application-final/21833,"Applicant Name:
+Benjamin Stani
+Jamie Wang
+Joshua Ng
+Project Name:
+Verified USD (USDV)
+Project Description:
+USDV is a pioneering stablecoin, merging CeFi and DeFi advantages. It’s anchored in tokenized Real World Assets, primarily backed by the Short Term Treasury Bill Token (STBT), linked to U.S. short-term Treasury Bills. This dual-layer of pegging structure, combined with ERC-20 compatible Omnichain technology, allows for seamless cross-chain transactions and a high degree of stability and rel"
+238,Team 1 - Arbitrum DAO Onboarding Framework Experimental,https://forum.arbitrum.foundation/t/team-1-arbitrum-dao-onboarding-framework-experimental/25382,"Track Number: GovTech
+Track Name: GovTech
+Challenge Statement:
+As Arbitrum DAO grows, the increasing governance activity can overwhelm current delegates, making it difficult to stay updated and vote effectively.
+To address this, we propose creating a comprehensive onboarding framework for contributors, delegates, and builders. This framework will provide a clear and structured path for individuals to get involved and contribute, ultimately enhancing the ecosystem and alleviating the workload on "
+239,[FINAL] WINR Protocol STIP Addendum,https://forum.arbitrum.foundation/t/final-winr-protocol-stip-addendum/23539,"[WINR Protocol] STIP Addendum
+Information about STIP/STIP Backfund
+
+Can you provide a link to your previous STIP proposal (round 1 or backfund)?
+
+
+
+
+
+[WINR Protocol] [FINAL] [STIP - Round 1] Incentive Framework (Round 1)
+
+
+SECTION 1: APPLICANT INFORMATION
+Applicant Name: WINR Protocol
+Project Name: WINR Protocol
+Project Description: The WINR Protocol is an infrastructure protocol for on-chain gambling and gaming.
+Developers can use the WINR Protocol’s smart contract game engine for rapid game de"
+240,[Synthetix] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/synthetix-ltipp-application-final/22023,"SECTION 1: APPLICANT INFORMATION
+Provide personal or organizational details, including applicant name, contact information, and any associated organization. This information ensures proper identification and communication throughout the grant process.
+Applicant Name: Cavalier
+Project Name: Synthetix
+Project Description: Synthetix is a liquidity layer that powers an array of onchain derivatives. The primary product is Synthetix Perps, which has generated $45b in trading volume and $35 million in "
+241,[Contrax] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/contrax-ltipp-application-final/21707,"image1698×806 127 KB
+SECTION 1: APPLICANT INFORMATION
+Applicant Name: Soheeb Aziz
+Project Name: Contrax
+Project Description:
+The Contrax platform allows non-DeFi native users to access DeFi services by abstracting away all complexities that would prevent the web2 user from accessing a web3 service. At no point would they be stuck or confused, with ample help provided along the way.
+Users are met with a “sign in/up” screen instead of “create wallet.” Selecting it will give them the option to sele"
+242,Team #16 - Arbitrum Proposals App,https://forum.arbitrum.foundation/t/team-16-arbitrum-proposals-app/26052,"This proposal was made during GovHack Brussels and submitted on June 7th, 2024 and it can now be seen in the main Proposals category of this forum.
+Read the “Arbitrum Proposals App” proposal"
+243,[The Beacon] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/the-beacon-ltipp-application-final/21966,"SECTION 1: APPLICANT INFORMATION
+Applicant Name: Diego Vidaurre
+Project Name: The Beacon
+Project Description:
+The Beacon is an action roguelite RPG set in a vibrant, handmade pixel art world. Players can conquer procedural dungeons to earn unique NFT loot. Customize your character and home to your heart’s content, or trade your treasures on the market, all while engaging in MMO-like online gameplay.
+Team Members and Roles:
+Full time Employees:
+Diego Vidaurre: CEO
+Rafael Vidaurre: CTO & Game Dire"
+244,"Team #18 - Research, Development, and Quality Assurance Squad to help Arbitrum build the first decentralized sequencer stack",https://forum.arbitrum.foundation/t/team-18-research-development-and-quality-assurance-squad-to-help-arbitrum-build-the-first-decentralized-sequencer-stack/25376,"Track #10 - Decentralized Sequencers.
+
+
+Challange Statement:
+
+“Presently, Orbit chains are launched with centralized sequencers, and there is no out of the box way to decentralize. This gives centralized entitites an outsized influence.
+How can we enable Orbit chains to easily adjust their degree of decentralization, so they can improve their security and liveness, while reducing reliance on the same few centralized entities?”
+
+
+
+Members: Gonzalo Silman & Milton Berman
+
+
+Team Lead: Gonzalo Silma"
+245,[Harvest Finance] LTIPP Application Draft,https://forum.arbitrum.foundation/t/harvest-finance-ltipp-application-draft/21811,"SECTION 1: APPLICANT INFORMATION
+Applicant Name: Absolute Unit
+Project Name: Harvest Finance
+Project Description: Harvest is one of the first Yield Aggregators launched in DeFi Summer 2020 with a vibrant community. We help users discover new platforms and opportunities and earn yield, all through a focused, streamlined experience.
+Team Members and Roles: Redmption: Project Lead | Absolute Unit: BD Lead | Just Z: Social Lead | JasperS13: Dev Lead | Gruad: Treasury Lead | YogaFire: Community Lead
+"
+246,[HOP Protocol] LTIPP Application - FINAL,https://forum.arbitrum.foundation/t/hop-protocol-ltipp-application-final/21830,"SECTION 1: APPLICANT INFORMATION
+Provide personal or organizational details, including applicant name, contact information, and any associated organization. This information ensures proper identification and communication throughout the grant process.
+Applicant Name: Bob Rossi, Francom and 0xLev1
+Project Name: Hop Protocol
+Project Description: Hop is a scalable rollup-to-rollup general token bridge. It allows users to send tokens from one rollup or sidechain to another almost immediately without"
+247,[Premia] STIP Addendum,https://forum.arbitrum.foundation/t/premia-stip-addendum/23625,"Information about STIP/STIP Backfund
+1. Can you provide a link to your previous STIP proposal (round 1 or backfund)?
+
+Link to Premia’s STIP Application
+
+2. How much, in the previous STIP proposal, did you request in ARB?
+
+900,000 ARB
+
+3. What date did you start the incentive program and what date did it end?
+
+Start Date: November 15, 2023
+End Date: March 5, 2024
+
+4. Could you provide the links to the bi-weekly STIP performance reports and Openblocks Dashboard?
+
+Premia Bi-Weekly Performance Repor"
+248,Tide Protocol STIP Addendum,https://forum.arbitrum.foundation/t/tide-protocol-stip-addendum/23804,"Information about STIP/STIP Backfund
+
+Can you provide a link to your previous STIP proposal (round 1 or backfund)?
+
+
+
+
+
+[TIDE][FINAL][STIP - Round 1] Incentive Framework (Round 1)
+
+
+    Applicant Name: Silvio Busonero 
+SECTION 1: APPLICANT INFORMATION
+Project Name: Tide 
+Project Description: Tide helps web3 businesses distribute incentives in a data driven way. 
+Every web3 business adopts token distribution and direct user incentives as a growth strategy. Most of the proposals for STIP are indee"
+249,Team 28: Arbitrum Mascot and Merchandise Development Initiative,https://forum.arbitrum.foundation/t/team-28-arbitrum-mascot-and-merchandise-development-initiative/25391,"Title: Arbitrum Mascot and Merchandise Development Initiative
+Track: Marketing & Brand
+Proposal Origin: GovHack at EthCC Brussels 2024, Group 28
+Members: Víctor del Val (@Victorxva), Julio M Cruz (@JulioMCruz)
+TG: @victorxva, @JulioMCruz
+X: @victorxva, @JulioMCruz
+Loom From GovHack Proposal (Not updated)
+Deck From GovHack Proposal (Not updated)
+Challenge Statement
+The Arbitrum DAO currently lacks a strong visual identity beyond its logo, which limits the potential for creating attractive and inf"
+250,[FINAL] WOOFi STIP Addendum,https://forum.arbitrum.foundation/t/final-woofi-stip-addendum/23358,"1500x5001500×500 62.3 KB
+Information about STIP/STIP Backfund
+1. Can you provide a link to your previous STIP proposal (round 1 or backfund)?
+
+[WOOFi] [FINAL] [STIP - Round 1]
+
+2. How much, in the previous STIP proposal, did you request in ARB?
+
+1,000.000 ARB (with ~65K unused ARB rewards returned back to the DAO - tx hash)
+
+3. What date did you start the incentive program and what date did it end?
+
+26.12.23 - 29.03.24
+
+4. Could you provide the links to the bi-weekly STIP performance reports and"
+251,Team 14: Proposal for Delegate Transparency in Arbitrum DAO,https://forum.arbitrum.foundation/t/team-14-proposal-for-delegate-transparency-in-arbitrum-dao/25368,"Track Number: 14
+Track Name: GovTech
+Challenge Statement: How do we ensure the community is properly informed about delegates, what they stand for, and whom they may best align with.
+Members: David, Brandon
+Team lead: David: Telegram: Contact @daveytea
+Pitch: govhack.mp4 - Google Drive
+Live MVP (built over weekend): https://test.x23.ai/arbitrum/delegates
+
+
+Proposal for Delegate Transparency in Arbitrum DAO
+Abstract
+This proposal aims to introduce a system that provides the Arbitrum community wit"
+252,Team 4: Jumpstart fund for DAO improvement,https://forum.arbitrum.foundation/t/team-4-jumpstart-fund-for-dao-improvement/25309,"Jumpstart fund for DAO improvement
+Non-Constitutional
+Track Number: -
+Track Name: -
+Challenge Statement: The DAO struggles with funding the initial steps needed for problem definition, alignment and scoping, causing slow progress and overburdening delegates with inadequate proposals.
+Members: Daniel & Drea
+Team Lean: Daniel, @mrjackalop on telegram
+Slides presentation
+2 min video
+Abstract
+This proposal allows the DAO to proactively define key problem areas and have the community untangle them, a"
+253,Team 10 + DeCredit Score,https://forum.arbitrum.foundation/t/team-10-decredit-score/25356,"Track Number: 1
+Track Name: RWA
+Challenge Statement: Right now, micro-businesses in Latam, representing 90% of businesses, need fast micro-loans, but the market is dominated by loan sharks with insanely high interest rates, which are impossible to pay out, leaving them in a vicious cycle.
+How can we give access to micro-loans to local businesses in Latam, with affordable interest rates, avoiding loan sharks, while protecting Arbitrum DAO’s investment and providing them a good risk-managed return"
+254,Team #24 - Memebyosis: Arbitrum Memecoin Accelerator,https://forum.arbitrum.foundation/t/team-24-memebyosis-arbitrum-memecoin-accelerator/25390,"Track: Ventures
+Challenge Statement: The ARB token does not have traditional value accrual properties to incentivize holders
+Members: Vlad Avesalon @vennityvlad and Henri He @hhe17
+Team Lead: Henri He
+Loom Video:
+
+Abstract
+We propose to fund a meme coin accelerator as the catalyst to create a new utility for ARB token and to start the flying wheel of the ARB economic virtuous cycle. The accelerator will launch 5-10 new bespoke high-quality meme coin projects in 6 months. These fair-launch projec"
+255,Team 27 ArbitrumAgent: Empowering Decentralized Governance and Development with AI,https://forum.arbitrum.foundation/t/team-27-arbitrumagent-empowering-decentralized-governance-and-development-with-ai/25383,"Title: ArbitrumAgent: Empowering Decentralized Governance and Development with AI
+Track: AI, Gov, Tech
+Group: 27
+Challenges in the Current Grant Approval Process
+Inconsistent Approvals: The unpredictable nature of grant approvals creates uncertainty and hampers community progress.
+Resource Drain: Manual approval processes consume significant team resources and energy, leading to reduced productivity.
+Missed Opportunities: The current system’s inefficiencies result in missed opportunities for val"
+256,Team 3 + Reducing web3 Governance Gaps in Global South,https://forum.arbitrum.foundation/t/team-3-reducing-web3-governance-gaps-in-global-south/25394,"Track Name: Community / IRL Activation, Marketing
+Challenge Statement: Global south community leaders needs special training and clear understandable documentation to get involved into web3 governance.
+Members: ariutokintumi, ErikValle, 0xVato, Jose Luis Manco
+Team lead: ariutokintumi, Telegram: llamame
+Video Pitch: Empowering Web3 Governance in the Global South | Loom
+PDF Deck: GLOBAL SOUTH.pdf - Google Drive
+Proposal
+Abstract
+Replicate GovHack events oriented to Global South Communities to imp"
