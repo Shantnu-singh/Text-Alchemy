@@ -88,11 +88,26 @@ Conv_handler = ConversationHandler(
     },
     fallbacks= [CommandHandler('cancel' , cancel)]   
 )    
-app = ApplicationBuilder().token(token).build()
-app.add_handler(CommandHandler("hello" , hello))
-app.add_handler(CommandHandler("help" , help))
-app.add_handler(CommandHandler("start" , start))
-app.add_handler(Conv_handler)
-app.run_polling()
+
+async def send_message(update: Update , context: ContextTypes.DEFAULT_TYPE)->None:
+    if context.args: 
+        custom_message = " ".join(context.args)
+        await update.message.reply_text(f"you send {custom_message} ")
+    else:
+        await update.message.reply_text("⚠️ Something Went wrong try on more time....")
+        
+        
+         
+def main():
+    app = ApplicationBuilder().token(token).build()
+    app.add_handler(CommandHandler("hello" , hello))
+    app.add_handler(CommandHandler("help" , help))
+    app.add_handler(CommandHandler("start" , start))
+    app.add_handler(Conv_handler)
+    app.add_handler(CommandHandler("sendmessage", send_message))
+    app.run_polling()
+    
+if __name__ == "__main__":
+    main()
 
 
