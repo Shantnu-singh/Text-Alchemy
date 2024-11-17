@@ -2,12 +2,47 @@ import streamlit as st
 import pandas as pd
 import summerise
 import bot
+import telegram
+import asyncio 
+import nest_asyncio
+from telegram.ext import ApplicationBuilder, CommandHandler
 
 # Initialize session state variables
 if 'summaries' not in st.session_state:
     st.session_state.summaries = None
 if 'df' not in st.session_state:
     st.session_state.df = None
+
+def initialize_bot():
+    """Initialize the bot without running it in the main event loop"""
+    from bot import token, hello, help, start, Conv_handler, send_message
+    
+    app = ApplicationBuilder().token(token).build()
+    app.add_handler(CommandHandler("hello", hello))
+    app.add_handler(CommandHandler("help", help))
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(Conv_handler)
+    app.add_handler(CommandHandler("sendmessage", send_message))
+    return app
+
+if "bot_app" not in st.session_state:
+    st.session_state.bot_app = initialize_bot()
+
+async def start_bot():
+    try:
+        await st.session_state.bot_app.initialize()
+        await st.session_state.bot_app.start()
+        await st.session_state.bot_app.run_polling()
+    except Exception as e:
+        st.error(f"Bot Error: {str(e)}")
+
+# Run the bot in the background
+if 'bot_running' not in st.session_state:
+    st.session_state.bot_running = True
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    loop.create_task(start_bot())
+
 
 # Page Configuration
 st.set_page_config(
