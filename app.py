@@ -124,7 +124,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App Header
-st.title("✨ Text Alchemy")
+st.title("✨ Text Alchemy ")
 st.markdown("""
     <div style='background-color: #e6e6fa; padding: 1rem; border-radius: 10px; margin-bottom: 2rem;'>
         <h3 style='color: #4B0082; margin-bottom: 0.5rem;'>Transform Your Text into Concise Summaries</h3>
