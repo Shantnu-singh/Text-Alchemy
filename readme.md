@@ -2,7 +2,10 @@
 
 Text Alchemy is an AI-powered text summarization tool that transforms lengthy articles into concise, meaningful summaries. With seamless Telegram integration, you can access your summaries on the go!
 
-![Text Alchemy Banner](images/logo.jpg)
+
+<div align="center">
+  <img src="images/logo.jpg" alt="Text Alchemy Banner" width="300">
+</div>
 
 ## ✨ Features
 
